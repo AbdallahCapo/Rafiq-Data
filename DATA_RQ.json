@@ -12368,7 +12368,558 @@
             "question": "How can I get help if I’m lost in a desert in Saudi Arabia?",
             "answer": "Call 911 and provide your location. Stay with your vehicle, conserve water, and wait for rescue."
         }
+    ],
+        "Local Transportation": [
+        {
+            "question": "How can I use the metro in Dubai?",
+            "answer": "You can use the Dubai Metro by purchasing a Nol card at any station. The metro operates from 5:00 AM to midnight on weekdays and until 1:00 AM on weekends."
+        },
+        {
+            "question": "What is the cost of a taxi ride in Riyadh?",
+            "answer": "The starting fare for a taxi in Riyadh is around 10 SAR, with an additional 2 SAR per kilometer."
+        },
+        {
+            "question": "How can I rent a car in Oman?",
+            "answer": "You can rent a car in Oman by visiting car rental agencies at the airport or in major cities. You’ll need a valid driver’s license and an international driving permit."
+        },
+        {
+            "question": "What is the best way to get around in Cairo?",
+            "answer": "The best ways to get around in Cairo are by using the metro, taxis, or ride-sharing apps like Uber and Careem."
+        },
+        {
+            "question": "How do I pay for public buses in Abu Dhabi?",
+            "answer": "You can pay for public buses in Abu Dhabi using a Hafilat card, which can be purchased and topped up at bus stations or online."
+        },
+        {
+            "question": "Are there any women-only taxis in Saudi Arabia?",
+            "answer": "Yes, women-only taxis are available in Saudi Arabia through apps like Uber and Careem, which offer a 'Women Driver' option."
+        },
+        {
+            "question": "What is the cost of a metro ticket in Doha?",
+            "answer": "A single metro ticket in Doha costs between 2 QAR and 10 QAR, depending on the distance traveled."
+        },
+        {
+            "question": "What are the operating hours of the Dubai Tram?",
+            "answer": "The Dubai Tram operates from 6:00 AM to 1:00 AM from Saturday to Thursday and from 9:00 AM to 1:00 AM on Fridays."
+        },
+        {
+            "question": "Can I use my international driver’s license in Kuwait?",
+            "answer": "Yes, you can use your international driver’s license in Kuwait for up to 3 months. After that, you’ll need to obtain a Kuwaiti driver’s license."
+        },
+        {
+            "question": "How do I book a taxi in Bahrain?",
+            "answer": "You can book a taxi in Bahrain by calling local taxi companies, using apps like Uber or Careem, or hailing one on the street."
+        },
+        {
+            "question": "What is the best way to travel between cities in Morocco?",
+            "answer": "The best way to travel between cities in Morocco is by train (ONCF), bus (CTM or Supratours), or private car."
+        },
+        {
+            "question": "Are there any bike-sharing services in Dubai?",
+            "answer": "Yes, Dubai offers bike-sharing services like Careem Bike, which allows you to rent bikes from various stations across the city."
+        },
+        {
+            "question": "How can I get a monthly pass for public transportation in Riyadh?",
+            "answer": "Monthly passes for public transportation in Riyadh can be purchased at metro stations or through the official transportation app."
+        },
+        {
+            "question": "What is the cost of a ferry ride in Muscat?",
+            "answer": "The cost of a ferry ride in Muscat varies depending on the route, but it typically ranges from 2 OMR to 5 OMR."
+        },
+        {
+            "question": "How do I use the tram in Doha?",
+            "answer": "You can use the tram in Doha by purchasing a ticket or using a metro card. The tram connects to the Doha Metro system for easy transfers."
+        },
+        {
+            "question": "Are there any electric scooters available for rent in Abu Dhabi?",
+            "answer": "Yes, electric scooters are available for rent in Abu Dhabi through services like Lime and Bird."
+        },
+        {
+            "question": "What is the best way to get around in Marrakech?",
+            "answer": "The best ways to get around in Marrakech are by taxi, horse-drawn carriage (calèche), or on foot in the medina area."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Beirut?",
+            "answer": "You can take a taxi, use a ride-sharing app, or take the airport shuttle to get from Beirut-Rafic Hariri International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a bus ticket in Amman?",
+            "answer": "A bus ticket in Amman typically costs around 0.50 JOD to 1 JOD, depending on the route."
+        },
+        {
+            "question": "Are there any water taxis available in Dubai?",
+            "answer": "Yes, water taxis (abras) are available in Dubai, especially for crossing Dubai Creek. The fare is usually 1 AED per trip."
+        },
+        {
+            "question": "How do I rent a scooter in Cairo?",
+            "answer": "You can rent a scooter in Cairo through local rental agencies or apps like Uber and Careem, which offer scooter rentals."
+        },
+        {
+            "question": "What is the best way to travel between Doha and Lusail?",
+            "answer": "The best way to travel between Doha and Lusail is by using the Doha Metro, which connects the two cities efficiently."
+        },
+        {
+            "question": "Are there any night buses in Riyadh?",
+            "answer": "Yes, Riyadh offers night buses that operate on select routes. Check the official transportation website for schedules and routes."
+        },
+        {
+            "question": "How can I get a taxi at Dubai Mall?",
+            "answer": "You can get a taxi at Dubai Mall by using the designated taxi stands outside the mall or booking through apps like Uber and Careem."
+        },
+        {
+            "question": "What is the cost of a train ticket in Morocco?",
+            "answer": "The cost of a train ticket in Morocco varies depending on the route, but it typically ranges from 20 MAD to 150 MAD."
+        },
+        {
+            "question": "How do I use the monorail in Palm Jumeirah?",
+            "answer": "You can use the Palm Jumeirah Monorail by purchasing a ticket at the station. It connects the mainland to Atlantis, The Palm."
+        },
+        {
+            "question": "Are there any carpooling services in Kuwait?",
+            "answer": "Yes, carpooling services like BlaBlaCar are available in Kuwait for long-distance travel."
+        },
+        {
+            "question": "What is the best way to get around in Jeddah?",
+            "answer": "The best ways to get around in Jeddah are by taxi, ride-sharing apps, or private car."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Muscat?",
+            "answer": "You can take a taxi, use a ride-sharing app, or take the airport bus to get from Muscat International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a tram ticket in Casablanca?",
+            "answer": "A tram ticket in Casablanca costs around 6 MAD for a single ride."
+        },
+        {
+            "question": "Are there any bike lanes in Doha?",
+            "answer": "Yes, Doha has dedicated bike lanes in certain areas, especially along the Corniche and in parks."
+        },
+        {
+            "question": "How do I use the metro in Cairo?",
+            "answer": "You can use the Cairo Metro by purchasing a ticket at the station. The metro operates from 5:00 AM to midnight."
+        },
+        {
+            "question": "What is the best way to travel between Abu Dhabi and Dubai?",
+            "answer": "The best ways to travel between Abu Dhabi and Dubai are by bus, taxi, or private car. The journey takes about 1.5 to 2 hours."
+        },
+        {
+            "question": "Are there any electric buses in Riyadh?",
+            "answer": "Yes, Riyadh has introduced electric buses on select routes as part of its public transportation system."
+        },
+        {
+            "question": "How can I get a taxi in Marrakech?",
+            "answer": "You can get a taxi in Marrakech by hailing one on the street or using apps like Heetch and Careem."
+        },
+        {
+            "question": "What is the cost of a ferry ride in Bahrain?",
+            "answer": "The cost of a ferry ride in Bahrain varies depending on the route, but it typically ranges from 2 BHD to 5 BHD."
+        },
+        {
+            "question": "How do I use the bus system in Kuwait City?",
+            "answer": "You can use the bus system in Kuwait City by purchasing a ticket at the station or using a prepaid card. Check the official website for routes and schedules."
+        },
+        {
+            "question": "Are there any shared taxi services in Jordan?",
+            "answer": "Yes, shared taxi services (service taxis) are available in Jordan for travel between cities and within Amman."
+        },
+        {
+            "question": "What is the best way to get around in Doha?",
+            "answer": "The best ways to get around in Doha are by using the metro, taxis, or ride-sharing apps like Uber and Careem."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Kuwait City?",
+            "answer": "You can take a taxi, use a ride-sharing app, or take the airport bus to get from Kuwait International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a metro ticket in Casablanca?",
+            "answer": "A metro ticket in Casablanca costs around 6 MAD for a single ride."
+        },
+        {
+            "question": "Are there any water buses in Abu Dhabi?",
+            "answer": "Yes, water buses operate in Abu Dhabi, especially for travel between the mainland and islands like Yas Island."
+        },
+        {
+            "question": "How do I rent a car in Dubai?",
+            "answer": "You can rent a car in Dubai by visiting car rental agencies at the airport or in the city. You’ll need a valid driver’s license and an international driving permit."
+        },
+        {
+            "question": "What is the best way to travel between Muscat and Salalah?",
+            "answer": "The best ways to travel between Muscat and Salalah are by plane, bus, or private car. The journey by car takes about 12 hours."
+        },
+        {
+            "question": "Are there any bike-sharing services in Amman?",
+            "answer": "Yes, bike-sharing services like Zajil are available in Amman for short-distance travel."
+        },
+        {
+            "question": "How can I get a taxi in Beirut?",
+            "answer": "You can get a taxi in Beirut by hailing one on the street or using apps like Uber and Careem."
+        },
+        {
+            "question": "What is the cost of a train ticket in Egypt?",
+            "answer": "The cost of a train ticket in Egypt varies depending on the route, but it typically ranges from 10 EGP to 100 EGP."
+        },
+        {
+            "question": "How do I use the metro in Riyadh?",
+            "answer": "You can use the Riyadh Metro by purchasing a ticket at the station or using a prepaid card. The metro operates from 6:00 AM to midnight."
+        },
+        {
+            "question": "Are there any electric taxis in Doha?",
+            "answer": "Yes, Doha has introduced electric taxis as part of its efforts to promote sustainable transportation."
+        },
+        {
+            "question": "What is the best way to get around in Kuwait City?",
+            "answer": "The best ways to get around in Kuwait City are by taxi, ride-sharing apps, or private car."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Casablanca?",
+            "answer": "You can take a taxi, use a ride-sharing app, or take the train to get from Mohammed V International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a bus ticket in Doha?",
+            "answer": "A bus ticket in Doha typically costs between 2 QAR and 10 QAR, depending on the route."
+        },
+        {
+            "question": "Are there any shared bike services in Riyadh?",
+            "answer": "Yes, shared bike services like Careem Bike are available in Riyadh for short-distance travel."
+        },
+        {
+            "question": "How do I use the tram in Casablanca?",
+            "answer": "You can use the tram in Casablanca by purchasing a ticket at the station or using a prepaid card."
+        },
+        {
+            "question": "What is the best way to travel between Beirut and Tripoli?",
+            "answer": "The best ways to travel between Beirut and Tripoli are by bus, taxi, or private car. The journey takes about 1.5 to 2 hours."
+        },
+        {
+            "question": "Are there any electric scooters available in Amman?",
+            "answer": "Yes, electric scooters are available for rent in Amman through services like Lime and Bird."
+        },
+        {
+            "question": "How can I get a taxi in Kuwait City?",
+            "answer": "You can get a taxi in Kuwait City by hailing one on the street or using apps like Uber and Careem."
+        },
+        {
+            "question": "What is the cost of a ferry ride in Dubai?",
+            "answer": "The cost of a ferry ride in Dubai varies depending on the route, but it typically ranges from 15 AED to 50 AED."
+        },
+        {
+            "question": "How do I use the bus system in Doha?",
+            "answer": "You can use the bus system in Doha by purchasing a ticket at the station or using a prepaid card. Check the official website for routes and schedules."
+        },
+        {
+            "question": "Are there any water taxis available in Abu Dhabi?",
+            "answer": "Yes, water taxis are available in Abu Dhabi for travel between the mainland and islands like Yas Island."
+        },
+        {
+            "question": "What is the best way to get around in Casablanca?",
+            "answer": "The best ways to get around in Casablanca are by tram, taxi, or private car."
+        },
+        {
+            "question": "What is the cost of a metro ticket in Riyadh?",
+            "answer": "A metro ticket in Riyadh typically costs between 5 SAR and 20 SAR, depending on the distance traveled."
+        },
+        {
+            "question": "Are there any bike-sharing services in Doha?",
+            "answer": "Yes, bike-sharing services like Careem Bike are available in Doha for short-distance travel."
+        },
+        {
+            "question": "How do I use the tram in Dubai?",
+            "answer": "You can use the Dubai Tram by purchasing a ticket at the station or using a Nol card."
+        },
+        {
+            "question": "What is the best way to travel between Kuwait City and Salmiya?",
+            "answer": "The best ways to travel between Kuwait City and Salmiya are by taxi, bus, or private car. The journey takes about 20 to 30 minutes."
+        },
+        {
+            "question": "Are there any electric buses in Doha?",
+            "answer": "Yes, Doha has introduced electric buses on select routes as part of its public transportation system."
+        },
+        {
+            "question": "How can I get a taxi in Casablanca?",
+            "answer": "You can get a taxi in Casablanca by hailing one on the street or using apps like Heetch and Careem."
+        },
+        {
+            "question": "What is the cost of a train ticket in Jordan?",
+            "answer": "The cost of a train ticket in Jordan varies depending on the route, but it typically ranges from 1 JOD to 5 JOD."
+        },
+        {
+            "question": "How do I use the metro in Doha?",
+            "answer": "You can use the Doha Metro by purchasing a ticket at the station or using a prepaid card. The metro operates from 6:00 AM to midnight."
+        },
+        {
+            "question": "Are there any shared taxi services in Kuwait?",
+            "answer": "Yes, shared taxi services are available in Kuwait for travel between cities and within Kuwait City."
+        },
+        {
+            "question": "What is the best way to get around in Beirut?",
+            "answer": "The best ways to get around in Beirut are by taxi, ride-sharing apps, or private car."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Riyadh?",
+            "answer": "You can take a taxi, use a ride-sharing app, or take the airport bus to get from King Khalid International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a bus ticket in Kuwait City?",
+            "answer": "A bus ticket in Kuwait City typically costs around 0.25 KWD to 0.50 KWD, depending on the route."
+        },
+        {
+            "question": "Are there any ride-sharing apps available in Qatar?",
+            "answer": "Yes, popular ride-sharing apps like Uber and Careem are available in Qatar."
+        },
+        {
+            "question": "What is the best way to travel between cities in Saudi Arabia?",
+            "answer": "The best way to travel between cities in Saudi Arabia is by using domestic flights, intercity buses, or renting a car."
+        },
+        {
+            "question": "How do I pay for public transport in Abu Dhabi?",
+            "answer": "You can pay for public transport in Abu Dhabi using a Hafilat card, which is available at bus stations and kiosks."
+        },
+        {
+            "question": "Are there any women-only taxis in the UAE?",
+            "answer": "Yes, women-only taxis, operated by companies like Ladies First, are available in the UAE."
+        },
+        {
+            "question": "What is the speed limit on highways in Kuwait?",
+            "answer": "The speed limit on highways in Kuwait is typically 120 km/h, but it may vary depending on the area."
+        },
+        {
+            "question": "How can I book a taxi in Jordan?",
+            "answer": "You can book a taxi in Jordan using apps like Uber or Careem, or by calling local taxi companies."
+        },
+        {
+            "question": "Are there any trams in Dubai?",
+            "answer": "Yes, the Dubai Tram operates in areas like Dubai Marina and Jumeirah Beach Residence."
+        },
+        {
+            "question": "What is the best way to travel around Doha?",
+            "answer": "The best way to travel around Doha is by using taxis, ride-sharing apps, or the Doha Metro."
+        },
+        {
+            "question": "Are there any bicycle rental services in Bahrain?",
+            "answer": "Yes, bicycle rental services are available in areas like Bahrain Bay and Al Jazayer Beach."
+        },
+        {
+            "question": "Are there any water taxis in Dubai?",
+            "answer": "Yes, water taxis, known as abras, are available in Dubai for short trips across Dubai Creek."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Amman?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Queen Alia International Airport to the city center."
+        },
+        {
+            "question": "What is the best way to travel around Beirut?",
+            "answer": "The best way to travel around Beirut is by using taxis, ride-sharing apps, or public buses."
+        },
+        {
+            "question": "Are there any electric scooters available for rent in the UAE?",
+            "answer": "Yes, electric scooters are available for rent in cities like Dubai and Abu Dhabi through apps like Lime and Tier."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Jeddah?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from King Abdulaziz International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a taxi ride in Doha?",
+            "answer": "The starting fare for a taxi in Doha is around QAR 10, with an additional QAR 1.60 per kilometer."
+        },
+        {
+            "question": "Are there any bike lanes in Riyadh?",
+            "answer": "Yes, Riyadh has dedicated bike lanes in certain areas, such as King Abdullah Financial District."
+        },
+        {
+            "question": "What is the best way to travel around Muscat?",
+            "answer": "The best way to travel around Muscat is by using taxis, ride-sharing apps, or renting a car."
+        },
+        {
+            "question": "Are there any ferries in Bahrain?",
+            "answer": "Yes, ferries operate between Bahrain and nearby islands, such as Muharraq and Sitra."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Cairo?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Cairo International Airport to the city center."
+        },
+        {
+            "question": "Are there any trams in Doha?",
+            "answer": "No, Doha does not currently have a tram system, but the Doha Metro and buses are available."
+        },
+        {
+            "question": "What is the best way to travel around Kuwait City?",
+            "answer": "The best way to travel around Kuwait City is by using taxis, ride-sharing apps, or renting a car."
+        },
+        {
+            "question": "Are there any electric buses in Dubai?",
+            "answer": "Yes, Dubai has introduced electric buses as part of its public transport fleet."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Manama?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Bahrain International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a taxi ride in Muscat?",
+            "answer": "The starting fare for a taxi in Muscat is around OMR 1, with an additional OMR 0.50 per kilometer."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Dammam?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from King Fahd International Airport to the city center."
+        },
+        {
+            "question": "What is the best way to travel around Alexandria?",
+            "answer": "The best way to travel around Alexandria is by using taxis, ride-sharing apps, Tram, or public buses."
+        },
+        {
+            "question": "Are there any ferries in Oman?",
+            "answer": "Yes, ferries operate between Muscat and nearby destinations like Khasab and Salalah."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Sharjah?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Sharjah International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a bus ticket in Riyadh?",
+            "answer": "The cost of a bus ticket in Riyadh ranges from SAR 4 to SAR 8, depending on the route."
+        },
+        {
+            "question": "Are there any trams in Abu Dhabi?",
+            "answer": "No, Abu Dhabi does not currently have a tram system, but buses and taxis are available."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Medina?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Prince Mohammad bin Abdulaziz International Airport to the city center."
+        },
+        {
+            "question": "What is the best way to travel around Dammam?",
+            "answer": "The best way to travel around Dammam is by using taxis, ride-sharing apps, or renting a car."
+        },
+        {
+            "question": "Are there any electric scooters available for rent in Qatar?",
+            "answer": "Yes, electric scooters are available for rent in Doha through apps like Lime and Bird."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Salalah?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Salalah Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a taxi ride in Kuwait City?",
+            "answer": "The starting fare for a taxi in Kuwait City is around KWD 1, with an additional KWD 0.25 per kilometer."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Al Ain?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Al Ain International Airport to the city center."
+        },
+        {
+            "question": "What is the best way to travel around Sharjah?",
+            "answer": "The best way to travel around Sharjah is by using taxis, ride-sharing apps, or public buses."
+        },
+        {
+            "question": "Are there any ferries in the UAE?",
+            "answer": "Yes, ferries operate between Dubai and nearby destinations like Abu Dhabi and Sharjah."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Fujairah?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Fujairah International Airport to the city center."
+        },
+        {
+            "question": "Are there any trams in Muscat?",
+            "answer": "No, Muscat does not currently have a tram system, but buses and taxis are available."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Taif?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Taif Regional Airport to the city center."
+        },
+        {
+            "question": "What is the best way to travel around Salalah?",
+            "answer": "The best way to travel around Salalah is by using taxis, ride-sharing apps, or renting a car."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Ras Al Khaimah?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Ras Al Khaimah International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a taxi ride in Sharjah?",
+            "answer": "The starting fare for a taxi in Sharjah is around AED 10, with an additional AED 1.50 per kilometer."
+        },
+        {
+            "question": "Are there any bike-sharing services in Kuwait City?",
+            "answer": "Yes, bike-sharing services like Ofo are available in certain areas of Kuwait City."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Hail?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Hail Regional Airport to the city center."
+        },
+        {
+            "question": "What is the best way to travel around Fujairah?",
+            "answer": "The best way to travel around Fujairah is by using taxis, ride-sharing apps, or renting a car."
+        },
+        {
+            "question": "Are there any ferries in Jordan?",
+            "answer": "No, Jordan does not have ferries, but you can travel by land or air to nearby destinations."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Al Ula?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Al Ula International Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a bus ticket in Muscat?",
+            "answer": "The cost of a bus ticket in Muscat ranges from OMR 0.20 to OMR 0.50, depending on the route."
+        },
+        {
+            "question": "Are there any trams in Kuwait City?",
+            "answer": "No, Kuwait City does not currently have a tram system, but buses and taxis are available."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Najran?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Najran Regional Airport to the city center."
+        },
+        {
+            "question": "What is the best way to travel around Ras Al Khaimah?",
+            "answer": "The best way to travel around Ras Al Khaimah is by using taxis, ride-sharing apps, or renting a car."
+        },
+        {
+            "question": "Are there any electric scooters available for rent in Oman?",
+            "answer": "Yes, electric scooters are available for rent in Muscat through apps like Lime and Bird."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Tabuk?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Tabuk Regional Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a taxi ride in Al Ain?",
+            "answer": "The starting fare for a taxi in Al Ain is around AED 10, with an additional AED 1.50 per kilometer."
+        },
+        {
+            "question": "Are there any bike lanes in Sharjah?",
+            "answer": "Yes, Sharjah has dedicated bike lanes in certain areas, such as Al Majaz Waterfront."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Jizan?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Jizan Regional Airport to the city center."
+        },
+        {
+            "question": "What is the best way to travel around Al Ula?",
+            "answer": "The best way to travel around Al Ula is by using taxis, ride-sharing apps, or renting a car."
+        },
+        {
+            "question": "Are there any ferries in Kuwait?",
+            "answer": "Yes, ferries operate between Kuwait City and nearby destinations like Failaka Island."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Buraidah?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Prince Naif bin Abdulaziz Regional Airport to the city center."
+        },
+        {
+            "question": "What is the cost of a bus ticket in Sharjah?",
+            "answer": "The cost of a bus ticket in Sharjah ranges from AED 2 to AED 5, depending on the route."
+        },
+        {
+            "question": "Are there any trams in Bahrain?",
+            "answer": "No, Bahrain does not currently have a tram system, but buses and taxis are available."
+        },
+        {
+            "question": "How can I get from the airport to the city center in Arar?",
+            "answer": "You can take a taxi, use the airport shuttle bus, or rent a car to get from Arar Domestic Airport to the city center."
+        }
     ]
+        
 }
 
       
