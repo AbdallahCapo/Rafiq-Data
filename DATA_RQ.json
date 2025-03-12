@@ -11850,8 +11850,527 @@
         "answer": "Yes, RafiQ shares details on airport lounges and access policies."
       }
 
-]
+],
+    "Emergency Situations": [
+        {
+            "question": "What should I do if I lose my passport in Dubai?",
+            "answer": "If you lose your passport in Dubai, immediately report it to the nearest police station and contact your country's embassy or consulate for assistance in obtaining a replacement."
+        },
+        {
+            "question": "Where can I find emergency medical help in Riyadh?",
+            "answer": "In Riyadh, you can find emergency medical help at hospitals like King Fahad Medical City or King Khalid University Hospital. Dial 997 for ambulance services."
+        },
+        {
+            "question": "What is the emergency number for police in Egypt?",
+            "answer": "The emergency number for police in Egypt is 122."
+        },
+        {
+            "question": "What should I do if I get lost in the desert during a safari in Oman?",
+            "answer": "If you get lost in the desert, stay with your vehicle, conserve water, and try to contact your tour operator or emergency services at 9999. Use a GPS device if available."
+        },
+        {
+            "question": "How can I contact the fire department in Qatar?",
+            "answer": "In Qatar, you can contact the fire department by dialing 999."
+        },
+        {
+            "question": "What should I do if I experience a medical emergency in Jordan?",
+            "answer": "In Jordan, dial 911 for medical emergencies. Major hospitals like King Hussein Medical Center and Jordan Hospital can provide immediate assistance."
+        },
+        {
+            "question": "What is the procedure for reporting a theft in Morocco?",
+            "answer": "To report a theft in Morocco, go to the nearest police station and file a report. Provide as much detail as possible, including descriptions of stolen items and the incident location."
+        },
+        {
+            "question": "What should I do if I encounter a natural disaster like a sandstorm in Saudi Arabia?",
+            "answer": "During a sandstorm, stay indoors, close all windows and doors, and avoid driving. If you must go outside, wear protective clothing and a mask to avoid inhaling dust."
+        },
+        {
+            "question": "How can I get help if I'm involved in a car accident in the UAE?",
+            "answer": "If you're involved in a car accident in the UAE, call the police at 999 and wait for assistance. Do not move your vehicle until the police arrive, unless it's obstructing traffic."
+        },
+        {
+            "question": "What should I do if I feel unsafe in a public area in Lebanon?",
+            "answer": "If you feel unsafe in Lebanon, move to a well-lit, crowded area and contact the police at 112. Avoid confrontations and seek help from nearby authorities or businesses."
+        },
+        {
+            "question": "What is the emergency number for tourist police in Tunisia?",
+            "answer": "The emergency number for tourist police in Tunisia is 197."
+        },
+        {
+            "question": "What should I do if I lose my wallet in Bahrain?",
+            "answer": "If you lose your wallet in Bahrain, report it to the nearest police station and contact your bank to block your cards. You can also seek assistance from your embassy if needed."
+        },
+        {
+            "question": "How can I get emergency assistance in Kuwait?",
+            "answer": "In Kuwait, dial 112 for emergency assistance, including police, fire, and ambulance services."
+        },
+        {
+            "question": "What should I do if I encounter a wildlife threat in the UAE desert?",
+            "answer": "If you encounter a wildlife threat, stay calm, avoid sudden movements, and slowly back away. Do not attempt to feed or approach the animal. Call emergency services at 999 if needed."
+        },
+        {
+            "question": "What is the procedure for reporting a lost child in a crowded area in Saudi Arabia?",
+            "answer": "If you lose a child in a crowded area, immediately inform security personnel or police at 911. Provide a description of the child and their last known location."
+        },
+        {
+            "question": "What should I do if I experience a power outage in my hotel in Oman?",
+            "answer": "If you experience a power outage, contact the hotel reception immediately. Use a flashlight or your phone's light to navigate safely and avoid using elevators."
+        },
+        {
+            "question": "How can I get help if I'm stranded in a remote area in Jordan?",
+            "answer": "If you're stranded in a remote area, try to contact emergency services at 911. If you have no signal, stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "What should I do if I witness a crime in Qatar?",
+            "answer": "If you witness a crime in Qatar, call the police at 999 immediately. Provide details of the incident and avoid intervening directly to ensure your safety."
+        },
+        {
+            "question": "What is the emergency number for mountain rescue in Lebanon?",
+            "answer": "The emergency number for mountain rescue in Lebanon is 140."
+        },
+        {
+            "question": "What should I do if I experience a sudden illness in Morocco?",
+            "answer": "If you experience a sudden illness, seek medical help at the nearest hospital or clinic. Dial 150 for ambulance services if necessary."
+        },
+        {
+            "question": "What should I do if I lose my passport in Saudi Arabia?",
+            "answer": "Report the loss to the nearest police station and contact your embassy or consulate for assistance in obtaining a replacement passport."
+        },
+        {
+            "question": "How can I get emergency medical assistance in Dubai?",
+            "answer": "Dial 998 for an ambulance or visit hospitals like Rashid Hospital or Dubai Hospital for immediate medical help."
+        },
+        {
+            "question": "What is the emergency number for police in Qatar?",
+            "answer": "The emergency number for police in Qatar is 999."
+        },
+        {
+            "question": "What should I do if I get lost in the desert during a trip in the UAE?",
+            "answer": "Stay with your vehicle, conserve water, and call emergency services at 999. Use a GPS device if available."
+        },
+        {
+            "question": "How can I contact the fire department in Kuwait?",
+            "answer": "In Kuwait, dial 112 to contact the fire department."
+        },
+        {
+            "question": "What should I do if I experience a medical emergency in Oman?",
+            "answer": "Dial 9999 for medical emergencies and seek help at hospitals like Sultan Qaboos University Hospital."
+        },
+        {
+            "question": "What is the procedure for reporting a theft in Egypt?",
+            "answer": "Go to the nearest police station and file a report. Provide details of the stolen items and the incident location."
+        },
+        {
+            "question": "What should I do if I encounter a sandstorm in Saudi Arabia?",
+            "answer": "Stay indoors, close all windows and doors, and avoid driving. If outside, wear protective clothing and a mask."
+        },
+        {
+            "question": "How can I get help if I'm involved in a car accident in Bahrain?",
+            "answer": "Call the police at 999 and wait for assistance. Do not move your vehicle unless it’s obstructing traffic."
+        },
+        {
+            "question": "What should I do if I feel unsafe in a public area in Jordan?",
+            "answer": "Move to a well-lit, crowded area and contact the police at 911. Avoid confrontations and seek help from authorities."
+        },
+        {
+            "question": "What is the emergency number for tourist police in Morocco?",
+            "answer": "The emergency number for tourist police in Morocco is 19."
+        },
+        {
+            "question": "What should I do if I lose my wallet in Qatar?",
+            "answer": "Report the loss to the nearest police station and contact your bank to block your cards. Seek assistance from your embassy if needed."
+        },
+        {
+            "question": "How can I get emergency assistance in Lebanon?",
+            "answer": "Dial 112 for emergency assistance, including police, fire, and ambulance services."
+        },
+        {
+            "question": "What should I do if I encounter a wildlife threat in Oman?",
+            "answer": "Stay calm, avoid sudden movements, and slowly back away. Call emergency services at 9999 if necessary."
+        },
+        {
+            "question": "What is the procedure for reporting a lost child in a crowded area in the UAE?",
+            "answer": "Inform security personnel or police at 999 immediately. Provide a description of the child and their last known location."
+        },
+        {
+            "question": "What should I do if I experience a power outage in my hotel in Saudi Arabia?",
+            "answer": "Contact the hotel reception immediately. Use a flashlight or your phone's light to navigate safely and avoid using elevators."
+        },
+        {
+            "question": "How can I get help if I'm stranded in a remote area in Kuwait?",
+            "answer": "Call emergency services at 112. If you have no signal, stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "What should I do if I witness a crime in Jordan?",
+            "answer": "Call the police at 911 immediately. Provide details of the incident and avoid intervening directly to ensure your safety."
+        },
+        {
+            "question": "What is the emergency number for mountain rescue in Morocco?",
+            "answer": "The emergency number for mountain rescue in Morocco is 150."
+        },
+        {
+            "question": "What should I do if I experience a sudden illness in Qatar?",
+            "answer": "Seek medical help at the nearest hospital or clinic. Dial 999 for ambulance services if necessary."
+        },
+        {
+            "question": "What should I do if I lose my luggage at the airport in Dubai?",
+            "answer": "Report the loss to the airport’s lost and found department and file a report with the airline you traveled with."
+        },
+        {
+            "question": "How can I contact the coast guard in Oman?",
+            "answer": "Dial 9999 to contact the coast guard in Oman for maritime emergencies."
+        },
+        {
+            "question": "What should I do if I’m caught in a flood in Saudi Arabia?",
+            "answer": "Move to higher ground immediately and avoid walking or driving through floodwaters. Call emergency services at 911 for assistance."
+        },
+        {
+            "question": "What is the emergency number for poison control in Egypt?",
+            "answer": "The emergency number for poison control in Egypt is 123."
+        },
+        {
+            "question": "What should I do if I’m involved in a boating accident in Bahrain?",
+            "answer": "Call the coast guard at 994 and ensure everyone is wearing life jackets. Provide your location and details of the accident."
+        },
+        {
+            "question": "How can I report a missing person in Kuwait?",
+            "answer": "Go to the nearest police station or call 112 to report a missing person. Provide as much detail as possible."
+        },
+        {
+            "question": "What should I do if I’m bitten by a snake in Jordan?",
+            "answer": "Stay calm, immobilize the affected limb, and seek immediate medical help. Call 911 for assistance."
+        },
+        {
+            "question": "What is the emergency number for animal control in Qatar?",
+            "answer": "Call 999 to report dangerous animals or wildlife threats in Qatar."
+        },
+        {
+            "question": "What should I do if I’m trapped in an elevator in the UAE?",
+            "answer": "Use the emergency button inside the elevator or call 999 for assistance. Stay calm and wait for help."
+        },
+        {
+            "question": "How can I get help if I’m stranded in the desert in Saudi Arabia?",
+            "answer": "Call 911 and provide your location. Stay with your vehicle, conserve water, and wait for rescue."
+        },
+        {
+            "question": "What should I do if I’m involved in a fire in Oman?",
+            "answer": "Evacuate the area immediately and call 9999 for the fire department. Do not use elevators during a fire."
+        },
+        {
+            "question": "What is the emergency number for road accidents in Lebanon?",
+            "answer": "Dial 140 to report road accidents in Lebanon."
+        },
+        {
+            "question": "What should I do if I’m injured during a hike in Morocco?",
+            "answer": "Call 150 for mountain rescue and provide your location. Stay where you are and avoid moving if seriously injured."
+        },
+        {
+            "question": "How can I report a suspicious package in Bahrain?",
+            "answer": "Call 999 immediately and provide details of the package and its location. Do not touch or approach the package."
+        },
+        {
+            "question": "What should I do if I’m caught in a sandstorm in Kuwait?",
+            "answer": "Stay indoors, close all windows and doors, and avoid driving. If outside, cover your face and seek shelter."
+        },
+        {
+            "question": "What is the emergency number for gas leaks in Qatar?",
+            "answer": "Call 999 to report a gas leak in Qatar. Evacuate the area immediately and avoid using electrical devices."
+        },
+        {
+            "question": "What should I do if I’m stranded in a remote area in Oman?",
+            "answer": "Call 9999 and provide your location. Stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "How can I get help if I’m lost in a city in Jordan?",
+            "answer": "Ask for directions from locals or contact the tourist police at 911. Use a map or GPS if available."
+        },
+        {
+            "question": "What should I do if I’m involved in a natural disaster in Egypt?",
+            "answer": "Follow local authorities’ instructions and call 122 for emergency assistance. Move to a safe location if possible."
+        },
+        {
+            "question": "What is the emergency number for lost children in the UAE?",
+            "answer": "Call 999 to report a lost child in the UAE. Provide a description and last known location."
+        },
+        {
+            "question": "What should I do if I’m injured during a desert safari in Saudi Arabia?",
+            "answer": "Call 911 and provide your location. Stay calm and wait for medical assistance."
+        },
+        {
+            "question": "How can I report a cybercrime in Qatar?",
+            "answer": "Contact the Cybercrime Investigation Department at 999 or visit the nearest police station to report the incident."
+        },
+        {
+            "question": "What should I do if I’m involved in a boating accident in Oman?",
+            "answer": "Call 9999 and provide your location. Ensure everyone is wearing life jackets and follow safety protocols."
+        },
+        {
+            "question": "What is the emergency number for lost passports in Bahrain?",
+            "answer": "Call 999 to report a lost passport in Bahrain and contact your embassy for assistance."
+        },
+        {
+            "question": "What should I do if I’m caught in a thunderstorm in Jordan?",
+            "answer": "Seek shelter indoors and avoid open areas. Do not use electrical devices or plumbing during the storm."
+        },
+        {
+            "question": "How can I get help if I’m stranded in a remote area in Kuwait?",
+            "answer": "Call 112 and provide your location. Stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "What should I do if I’m involved in a fire in Lebanon?",
+            "answer": "Evacuate the area immediately and call 112 for the fire department. Do not use elevators during a fire."
+        },
+        {
+            "question": "What should I do if I lose my phone in Dubai?",
+            "answer": "Report the loss to the nearest police station and contact your service provider to block your SIM card. You can also use tracking apps if enabled."
+        },
+        {
+            "question": "How can I get emergency dental care in Riyadh?",
+            "answer": "Visit a hospital with a dental department, such as King Fahad Medical City, or call 997 for assistance in finding an emergency dentist."
+        },
+        {
+            "question": "What is the emergency number for ambulance services in Qatar?",
+            "answer": "The emergency number for ambulance services in Qatar is 999."
+        },
+        {
+            "question": "What should I do if I get lost in the mountains in Oman?",
+            "answer": "Stay where you are, call 9999, and provide your location. Use a whistle or flashlight to signal for help if needed."
+        },
+        {
+            "question": "How can I contact the coast guard in the UAE?",
+            "answer": "Dial 996 to contact the coast guard in the UAE for maritime emergencies."
+        },
+        {
+            "question": "What should I do if I experience a severe allergic reaction in Jordan?",
+            "answer": "Use an epinephrine auto-injector if available and call 911 immediately. Seek medical help at the nearest hospital."
+        },
+        {
+            "question": "What is the procedure for reporting a lost child in a mall in Saudi Arabia?",
+            "answer": "Inform mall security or call 911. Provide a description of the child and their last known location."
+        },
+        {
+            "question": "What should I do if I encounter a scorpion in the desert in Kuwait?",
+            "answer": "Stay calm, avoid provoking the scorpion, and seek medical attention immediately if stung. Call 112 for assistance."
+        },
+        {
+            "question": "How can I get help if I’m involved in a road accident in Lebanon?",
+            "answer": "Call 140 for road accident assistance. Provide your location and details of the accident."
+        },
+        {
+            "question": "What should I do if I’m caught in a flash flood in Morocco?",
+            "answer": "Move to higher ground immediately and avoid walking or driving through floodwaters. Call 150 for assistance."
+        },
+        {
+            "question": "What is the emergency number for lost luggage in Bahrain?",
+            "answer": "Contact the airport’s lost and found department or call 999 for assistance in locating your luggage."
+        },
+        {
+            "question": "What should I do if I’m injured during a camel ride in the UAE?",
+            "answer": "Seek medical attention immediately and call 999 for assistance. Inform your tour operator about the incident."
+        },
+        {
+            "question": "How can I report a cybercrime in Saudi Arabia?",
+            "answer": "Contact the Saudi Cybercrime Investigation Department at 911 or visit their website to file a report."
+        },
+        {
+            "question": "What should I do if I’m stranded in a remote area in Qatar?",
+            "answer": "Call 999 and provide your location. Stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "What is the emergency number for lost passports in Oman?",
+            "answer": "Call 9999 to report a lost passport and contact your embassy for assistance."
+        },
+        {
+            "question": "What should I do if I’m involved in a boating accident in Kuwait?",
+            "answer": "Call 112 and provide your location. Ensure everyone is wearing life jackets and follow safety protocols."
+        },
+        {
+            "question": "How can I get help if I’m lost in a city in Egypt?",
+            "answer": "Ask for directions from locals or contact the tourist police at 122. Use a map or GPS if available."
+        },
+        {
+            "question": "What should I do if I’m caught in a sandstorm in Jordan?",
+            "answer": "Stay indoors, close all windows and doors, and avoid driving. If outside, cover your face and seek shelter."
+        },
+        {
+            "question": "What is the emergency number for gas leaks in the UAE?",
+            "answer": "Call 999 to report a gas leak in the UAE. Evacuate the area immediately and avoid using electrical devices."
+        },
+        {
+            "question": "What should I do if I’m injured during a hike in Lebanon?",
+            "answer": "Call 140 for mountain rescue and provide your location. Stay where you are and avoid moving if seriously injured."
+        },
+        {
+            "question": "How can I report a suspicious package in Saudi Arabia?",
+            "answer": "Call 911 immediately and provide details of the package and its location. Do not touch or approach the package."
+        },
+        {
+            "question": "What should I do if I’m caught in a thunderstorm in Qatar?",
+            "answer": "Seek shelter indoors and avoid open areas. Do not use electrical devices or plumbing during the storm."
+        },
+        {
+            "question": "What is the emergency number for lost children in Oman?",
+            "answer": "Call 9999 to report a lost child in Oman. Provide a description and last known location."
+        },
+        {
+            "question": "What should I do if I’m involved in a fire in Bahrain?",
+            "answer": "Evacuate the area immediately and call 999 for the fire department. Do not use elevators during a fire."
+        },
+        {
+            "question": "How can I get help if I’m stranded in a remote area in Morocco?",
+            "answer": "Call 150 and provide your location. Stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "What should I do if I’m bitten by a dog in Kuwait?",
+            "answer": "Clean the wound immediately and seek medical attention. Call 112 for assistance if needed."
+        },
+        {
+            "question": "What is the emergency number for lost wallets in Jordan?",
+            "answer": "Call 911 to report a lost wallet in Jordan. Contact your bank to block your cards and seek assistance from your embassy."
+        },
+        {
+            "question": "What should I do if I’m involved in a natural disaster in the UAE?",
+            "answer": "Follow local authorities’ instructions and call 999 for emergency assistance. Move to a safe location if possible."
+        },
+        {
+            "question": "How can I report a cybercrime in Qatar?",
+            "answer": "Contact the Cybercrime Investigation Department at 999 or visit the nearest police station to report the incident."
+        },
+        {
+            "question": "What should I do if I’m injured during a desert safari in Oman?",
+            "answer": "Call 9999 and provide your location. Stay calm and wait for medical assistance."
+        },
+        {
+            "question": "What is the emergency number for lost passports in Lebanon?",
+            "answer": "Call 112 to report a lost passport in Lebanon and contact your embassy for assistance."
+        },
+        {
+            "question": "What should I do if I’m caught in a flood in Egypt?",
+            "answer": "Move to higher ground immediately and avoid walking or driving through floodwaters. Call 122 for assistance."
+        },
+        {
+            "question": "How can I get help if I’m stranded in a remote area in Jordan?",
+            "answer": "Call 911 and provide your location. Stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "What should I do if I’m involved in a boating accident in Morocco?",
+            "answer": "Call 150 and provide your location. Ensure everyone is wearing life jackets and follow safety protocols."
+        },
+        {
+            "question": "What is the emergency number for lost children in Kuwait?",
+            "answer": "Call 112 to report a lost child in Kuwait. Provide a description and last known location."
+        },
+        {
+            "question": "What should I do if I’m injured during a hike in Saudi Arabia?",
+            "answer": "Call 911 and provide your location. Stay calm and wait for medical assistance."
+        },
+        {
+            "question": "How can I report a suspicious package in the UAE?",
+            "answer": "Call 999 immediately and provide details of the package and its location. Do not touch or approach the package."
+        },
+        {
+            "question": "What should I do if I’m caught in a sandstorm in Qatar?",
+            "answer": "Stay indoors, close all windows and doors, and avoid driving. If outside, cover your face and seek shelter."
+        },
+        {
+            "question": "What is the emergency number for lost passports in Bahrain?",
+            "answer": "Call 999 to report a lost passport in Bahrain and contact your embassy for assistance."
+        },
+        {
+            "question": "What should I do if I’m involved in a fire in Oman?",
+            "answer": "Evacuate the area immediately and call 9999 for the fire department. Do not use elevators during a fire."
+        },
+        {
+            "question": "How can I get help if I’m stranded in a remote area in Lebanon?",
+            "answer": "Call 112 and provide your location. Stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "What should I do if I’m bitten by a snake in Morocco?",
+            "answer": "Stay calm, immobilize the affected limb, and seek immediate medical help. Call 150 for assistance."
+        },
+        {
+            "question": "What is the emergency number for lost wallets in the UAE?",
+            "answer": "Call 999 to report a lost wallet in the UAE. Contact your bank to block your cards and seek assistance from your embassy."
+        },
+        {
+            "question": "What should I do if I’m involved in a natural disaster in Jordan?",
+            "answer": "Follow local authorities’ instructions and call 911 for emergency assistance. Move to a safe location if possible."
+        },
+        {
+            "question": "How can I report a cybercrime in Kuwait?",
+            "answer": "Contact the Cybercrime Investigation Department at 112 or visit the nearest police station to report the incident."
+        },
+        {
+            "question": "What should I do if I’m injured during a desert safari in Qatar?",
+            "answer": "Call 999 and provide your location. Stay calm and wait for medical assistance."
+        },
+        {
+            "question": "What is the emergency number for lost passports in Morocco?",
+            "answer": "Call 19 to report a lost passport in Morocco and contact your embassy for assistance."
+        },
+        {
+            "question": "What should I do if I’m caught in a flood in Lebanon?",
+            "answer": "Move to higher ground immediately and avoid walking or driving through floodwaters. Call 112 for assistance."
+        },
+        {
+            "question": "How can I get help if I’m stranded in a remote area in Egypt?",
+            "answer": "Call 122 and provide your location. Stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "What should I do if I lose my credit card in Saudi Arabia?",
+            "answer": "Immediately contact your bank to block the card and report the loss to the nearest police station. You can also call 911 for assistance."
+        },
+        {
+            "question": "How can I get emergency medical help for a child in Dubai?",
+            "answer": "Dial 998 for an ambulance or visit hospitals like Latifa Hospital, which specializes in pediatric care."
+        },
+        {
+            "question": "What is the emergency number for reporting a fire in Oman?",
+            "answer": "The emergency number for reporting a fire in Oman is 9999."
+        },
+        {
+            "question": "What should I do if I’m involved in a car accident in Qatar?",
+            "answer": "Call 999 for police and ambulance services. Do not move your vehicle unless it’s obstructing traffic."
+        },
+        {
+            "question": "How can I contact the tourist police in Egypt?",
+            "answer": "Dial 126 to contact the tourist police in Egypt for assistance with travel-related issues."
+        },
+        {
+            "question": "What should I do if I’m bitten by an insect in Jordan?",
+            "answer": "Clean the wound, apply antiseptic, and seek medical attention if symptoms worsen. Call 911 for severe reactions."
+        },
+        {
+            "question": "What is the emergency number for lost luggage in Kuwait?",
+            "answer": "Contact the airport’s lost and found department or call 112 for assistance in locating your luggage."
+        },
+        {
+            "question": "What should I do if I’m caught in a sandstorm in the UAE?",
+            "answer": "Stay indoors, close all windows and doors, and avoid driving. If outside, cover your face and seek shelter."
+        },
+        {
+            "question": "How can I report a lost passport in Bahrain?",
+            "answer": "Call 999 to report a lost passport and contact your embassy for assistance in obtaining a replacement."
+        },
+        {
+            "question": "What should I do if I’m injured during a water activity in Oman?",
+            "answer": "Seek immediate medical attention and call 9999 for assistance. Inform your tour operator about the incident."
+        },
+        {
+            "question": "What is the emergency number for reporting a crime in Lebanon?",
+            "answer": "Dial 112 to report a crime in Lebanon. Provide details of the incident and your location."
+        },
+        {
+            "question": "What should I do if I’m stranded in a remote area in Morocco?",
+            "answer": "Call 150 and provide your location. Stay with your vehicle, conserve resources, and wait for help."
+        },
+        {
+            "question": "How can I get help if I’m lost in a desert in Saudi Arabia?",
+            "answer": "Call 911 and provide your location. Stay with your vehicle, conserve water, and wait for rescue."
+        }
+    ]
 }
+
       
     
 
