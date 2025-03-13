@@ -7941,7 +7941,9 @@
         "Suggest travelers bring appropriate medications, as some medications may be restricted in certain Middle Eastern countries. It's essential to check the rules regarding prescribed drugs and over-the-counter medications before departure.",
         "Remind tourists that the Middle East is home to a variety of climates, so packing accordingly for the season and specific destination is crucial. Light clothing and sun protection for hot regions, and warmer clothes for mountainous or coastal areas, are recommended."
       ]
+      
     },
+
     "assistant_behavior": [
     "RafiQ should be informative and engaging, offering helpful and accurate responses that add value to the user's experience, ensuring they have a smooth and pleasant interaction with Tajawul.",
     "When users ask for information that is readily available on Tajawul, always direct them to the most relevant feature or tool on the platform. For example, if they inquire about travel recommendations, suggest using the **Recommendation System (RS)** for personalized suggestions.",
@@ -7956,6 +7958,13 @@
     "If a user asks about events or festivals, not only provide information about major cultural and religious celebrations but also inform them about local events and festivals that may be of interest to them, depending on the time of their visit.",
     "If the user expresses uncertainty about their travel plans, suggest personalized itineraries based on their preferences, combining popular tourist spots with unique local experiences to give them a well-rounded view of Middle Eastern tourism.",
     "Make sure to stay up-to-date with Tajawul’s features, tools, and platform updates to always provide the most relevant and accurate information to users.",
+    "If the user's question is unrelated to tourism (e.g., politics, sports, technology), inform them politely that you specialize in tourism and cannot answer other topics.",
+    "Keep answers concise but informative, ideally between 50-250 words.",
+    "avoid Hallucinations (making up facts)",
+    "avoid nverified information",
+    "avoid Off-topic discussions",
+    "Encourage users to ask more tourism-related questions if their original question was out of scope.",
+    "If the chatbot does not find a relevant answer in the database, it should not generate a false answer. Instead, inform the user politely that you don’t know the answer.",
     "For recurring users or those who use Tajawul regularly, remember past interactions to help offer even more tailored recommendations, making them feel valued and understood."
     ],
 
@@ -11850,8 +11859,1858 @@
         "answer": "Yes, RafiQ shares details on airport lounges and access policies."
       }
 
-]
+],
+
+"emergency contacts": [
+  {
+    "Q": "What is the general emergency number in Egypt?",
+    "A": "The general emergency number in Egypt is '122' for police, '123' for ambulance, and '180' for fire services."
+  },
+  {
+    "Q": "How can a tourist contact the coast guard in the UAE?",
+    "A": "In the UAE, the coast guard can be contacted through '996'. For marine emergencies, '999' can also be used."
+  },
+  {
+    "Q": "What is the direct number for traffic accidents in Saudi Arabia?",
+    "A": "Tourists in Saudi Arabia should dial '993' for traffic accidents and road-related emergencies."
+  },
+  {
+    "Q": "Which emergency service should a tourist in Morocco call in case of a fire?",
+    "A": "In Morocco, the fire department can be reached at '15'."
+  },
+  {
+    "Q": "What is the dedicated emergency helpline for tourists in Jordan?",
+    "A": "Jordan has a special tourist police helpline at '117777'."
+  },
+  {
+    "Q": "How can tourists report lost or stolen passports in Lebanon?",
+    "A": "Tourists in Lebanon should contact the General Security Office at '+961 1 425 610' or visit the nearest police station."
+  },
+  {
+    "Q": "What is the emergency contact number for medical emergencies in Qatar?",
+    "A": "For medical emergencies in Qatar, dial '999'."
+  },
+  {
+    "Q": "Which number should tourists call in Bahrain if they need emergency assistance?",
+    "A": "The general emergency number in Bahrain is '999'."
+  },
+  {
+    "Q": "How can tourists get help if they are in distress at sea in Oman?",
+    "A": "Oman's coast guard can be contacted at '9999'."
+  },
+  {
+    "Q": "What number should be called for poisoning emergencies in Tunisia?",
+    "A": "In Tunisia, poisoning emergencies should be reported to '71 764 000'."
+  },
+  {
+    "Q": "What is the emergency number for women in distress in Algeria?",
+    "A": "Algeria has a special emergency number for women in distress: '15 48'."
+  },
+  {
+    "Q": "Which number should tourists call for an ambulance in Iraq?",
+    "A": "In Iraq, tourists should call '122' for ambulance services."
+  },
+  {
+    "Q": "What is the contact number for tourist police in Egypt?",
+    "A": "The tourist police in Egypt can be reached at '126'."
+  },
+  {
+    "Q": "Which hotline should tourists call for road assistance in the UAE?",
+    "A": "In the UAE, tourists can call '800 4353' for road assistance."
+  },
+  {
+    "Q": "How can tourists reach the Royal Oman Police?",
+    "A": "Tourists in Oman can contact the Royal Oman Police at '9999'."
+  },
+  {
+    "Q": "What is the number for lost and found services in Dubai?",
+    "A": "For lost and found in Dubai, call '901' or visit the Dubai Police website."
+  },
+  {
+    "Q": "How do tourists report a missing child in Saudi Arabia?",
+    "A": "Tourists in Saudi Arabia should report missing children by calling '911'."
+  },
+  {
+    "Q": "What is the special helpline for domestic violence victims in Lebanon?",
+    "A": "Lebanon has a domestic violence helpline at '1745'."
+  },
+  {
+    "Q": "How can tourists report a cybercrime in Qatar?",
+    "A": "Tourists in Qatar can report cybercrimes by calling '6681 5757'."
+  },
+  {
+    "Q": "Which number should be dialed for the Red Crescent in Bahrain?",
+    "A": "The Red Crescent in Bahrain can be contacted at '+973 1724 4216'."
+  },
+  {
+    "Q": "How do tourists get help from civil defense in Morocco?",
+    "A": "Civil defense in Morocco can be reached at '15'."
+  },
+  {
+    "Q": "What is the special hotline for medical assistance in Tunisia?",
+    "A": "Tunisia has a medical assistance hotline at '190'."
+  },
+  {
+    "Q": "How do tourists reach the emergency air rescue service in Algeria?",
+    "A": "In Algeria, emergency air rescue services can be contacted via '17' (police) who will escalate the case."
+  },
+  {
+    "Q": "What is the emergency flood rescue contact in Iraq?",
+    "A": "In Iraq, flood rescue assistance can be requested by calling '115'."
+  },
+  {
+    "Q": "How do tourists report a suspicious package in Egypt?",
+    "A": "Tourists in Egypt should immediately call '122' to report suspicious packages."
+  },
+  {
+    "Q": "What is the special hotline for human trafficking cases in Jordan?",
+    "A": "Jordan’s human trafficking hotline is '110'."
+  },
+  {
+    "Q": "How do tourists request a helicopter rescue in UAE mountains?",
+    "A": "Tourists in UAE needing helicopter rescue should dial '999' and specify location details."
+  },
+  {
+    "Q": "What is the number for the Red Crescent emergency services in Saudi Arabia?",
+    "A": "In Saudi Arabia, the Red Crescent emergency services can be reached at '997'."
+  },
+  {
+    "Q": "How do tourists report an ATM fraud case in Qatar?",
+    "A": "ATM fraud in Qatar should be reported by calling '999' or directly to the bank’s fraud department."
+  },
+  {
+    "Q": "What is the poison control helpline in UAE?",
+    "A": "The UAE poison control center can be reached at '800 424'."
+  },
+  {
+    "Q": "How do tourists report wildlife dangers in Oman?",
+    "A": "Wildlife dangers in Oman should be reported to '800 73877'."
+  },
+  {
+    "Q": "Which number should be used for legal assistance in Bahrain?",
+    "A": "In Bahrain, legal assistance inquiries can be made by calling '+973 1722 1234'."
+  },
+  {
+    "Q": "What is the special hotline for mental health emergencies in Morocco?",
+    "A": "Morocco’s mental health emergency number is '05 22 25 44 26'."
+  },
+  {
+    "Q": "How do tourists report drug-related incidents in Tunisia?",
+    "A": "Tunisia’s drug-related incident reporting hotline is '80 100 711'."
+  },
+  {
+    "Q": "What number should tourists call in Lebanon for roadside assistance?",
+    "A": "Tourists needing roadside assistance in Lebanon should call '+961 1 425 555'."
+  },
+  {
+    "Q": "What is the hotline for reporting child abuse in Iraq?",
+    "A": "In Iraq, child abuse can be reported by calling '116'."
+  },
+  {
+    "Q": "Which number should tourists call to request a translator in Saudi Arabia?",
+    "A": "Tourists needing a translator in Saudi Arabia can call the tourist support center at '930'."
+  },
+  {
+    "Q": "How can tourists report a missing pet in Qatar?",
+    "A": "Missing pets in Qatar should be reported to the Ministry of Municipality at '184'."
+  },
+
+  {
+    "Q": "What is the emergency number for tourists in Kuwait?",
+    "A": "The general emergency number for police, fire, and ambulance in Kuwait is '112'."
+  },
+  {
+    "Q": "How can tourists contact emergency medical services in Yemen?",
+    "A": "In Yemen, emergency medical services can be reached at '191'."
+  },
+  {
+    "Q": "What is the hotline for tourist assistance in Dubai?",
+    "A": "Tourists in Dubai can call the Dubai Tourist Helpline at '800 4444'."
+  },
+  {
+    "Q": "How do tourists report a missing passport in Saudi Arabia?",
+    "A": "Tourists should contact the Saudi General Directorate of Passports at '992' or visit the nearest police station."
+  },
+  {
+    "Q": "What number should tourists call for a taxi in Bahrain?",
+    "A": "In Bahrain, tourists can book a taxi by calling '1666'."
+  },
+  {
+    "Q": "How can tourists get information about embassy services in Jordan?",
+    "A": "For embassy-related inquiries in Jordan, call the Ministry of Foreign Affairs at '+962 6 573 5150'."
+  },
+  {
+    "Q": "What is the emergency number for fire services in Lebanon?",
+    "A": "Fire emergencies in Lebanon should be reported to '175'."
+  },
+  {
+    "Q": "How can tourists report air travel issues in Qatar?",
+    "A": "Tourists facing air travel issues can contact Hamad International Airport at '+974 4010 6666'."
+  },
+  {
+    "Q": "What is the emergency number for mountain rescue in Morocco?",
+    "A": "Mountain rescue services in Morocco can be reached at '177'."
+  },
+  {
+    "Q": "How do tourists report street crimes in Tunisia?",
+    "A": "Street crimes in Tunisia should be reported to '197'."
+  },
+  {
+    "Q": "What is the contact number for the Omani Coast Guard?",
+    "A": "The Omani Coast Guard can be reached at '9999'."
+  },
+  {
+    "Q": "How can tourists get emergency medical assistance in Algeria?",
+    "A": "For medical emergencies in Algeria, dial '14'."
+  },
+  {
+    "Q": "What is the dedicated hotline for cybercrime in Saudi Arabia?",
+    "A": "Cybercrimes in Saudi Arabia can be reported to '1909'."
+  },
+  {
+    "Q": "How can tourists report theft in Dubai?",
+    "A": "Theft in Dubai should be reported to Dubai Police at '901' or '999' in emergencies."
+  },
+  {
+    "Q": "What is the contact number for ambulance services in Iraq?",
+    "A": "In Iraq, ambulance services can be reached by calling '122'."
+  },
+  {
+    "Q": "Which number should tourists dial for lost baggage in Egypt?",
+    "A": "Lost baggage at Cairo International Airport can be reported at '+20 2 2265 5000'."
+  },
+  {
+    "Q": "How do tourists request legal aid in Lebanon?",
+    "A": "Legal aid inquiries in Lebanon can be made by calling the Beirut Bar Association at '+961 1 424 153'."
+  },
+  {
+    "Q": "What is the number for marine rescue in Qatar?",
+    "A": "Marine rescue in Qatar can be contacted at '999'."
+  },
+  {
+    "Q": "How can tourists report domestic violence in Jordan?",
+    "A": "Jordan has a domestic violence hotline at '911' or '110'."
+  },
+  {
+    "Q": "What is the emergency hotline for flood disasters in Sudan?",
+    "A": "Sudan’s flood emergency number is '7777'."
+  },
+  {
+    "Q": "How do tourists reach the Red Crescent in UAE?",
+    "A": "The Red Crescent in UAE can be reached at '800 733'."
+  },
+  {
+    "Q": "What is the hotline for drug abuse emergencies in Kuwait?",
+    "A": "Drug abuse cases in Kuwait can be reported at '180 4444'."
+  },
+  {
+    "Q": "How do tourists report fraudulent tour guides in Saudi Arabia?",
+    "A": "Tourists can report fraudulent guides in Saudi Arabia by calling '930'."
+  },
+  {
+    "Q": "What is the emergency medical number in Libya?",
+    "A": "Emergency medical services in Libya can be reached at '1515'."
+  },
+  {
+    "Q": "Which number should tourists call for lost and found in Morocco?",
+    "A": "For lost and found in Morocco, contact '19' (police) or the local tourist office."
+  },
+  {
+    "Q": "What is the official contact for the Jordanian Civil Defense?",
+    "A": "Jordanian Civil Defense can be contacted at '199'."
+  },
+  {
+    "Q": "How can tourists report labor rights violations in Bahrain?",
+    "A": "Labor rights violations in Bahrain can be reported at '+973 8000 1783'."
+  },
+  {
+    "Q": "What is the special helpline for senior citizens in Saudi Arabia?",
+    "A": "Saudi Arabia’s senior citizens helpline is '800 124 5005'."
+  },
+  {
+    "Q": "How do tourists request emergency consular assistance in Tunisia?",
+    "A": "Emergency consular services in Tunisia can be contacted at '+216 71 755 065'."
+  },
+  {
+    "Q": "What is the emergency number for power outages in Egypt?",
+    "A": "Power outages in Egypt can be reported at '121'."
+  },
+  {
+    "Q": "How can tourists report internet fraud in Lebanon?",
+    "A": "Internet fraud in Lebanon can be reported to '1739'."
+  },
+  {
+    "Q": "Which number should tourists call for traffic violations in UAE?",
+    "A": "Traffic violations in UAE should be reported at '901'."
+  },
+  {
+    "Q": "What is the emergency contact for drowning incidents in Kuwait?",
+    "A": "Drowning incidents in Kuwait should be reported to '112'."
+  },
+  {
+    "Q": "How can tourists report abandoned children in Iraq?",
+    "A": "Reports of abandoned children in Iraq should be made to '116'."
+  },
+  {
+    "Q": "What is the emergency contact for tourist assistance in Oman?",
+    "A": "Tourists in Oman can contact the tourist support line at '9999'."
+  },
+  {
+    "Q": "How can tourists report a lost item in Qatar’s metro?",
+    "A": "Lost items in Qatar’s metro can be reported to '105'."
+  },
+  {
+    "Q": "What is the hotline for air pollution complaints in Saudi Arabia?",
+    "A": "Air pollution complaints in Saudi Arabia can be reported at '940'."
+  },
+  {
+    "Q": "How do tourists report environmental violations in Bahrain?",
+    "A": "Environmental violations in Bahrain can be reported at '+973 8000 1111'."
+  },
+  {
+    "Q": "What is the dedicated line for railway accidents in Egypt?",
+    "A": "Railway accidents in Egypt can be reported at '15047'."
+  },
+  {
+    "Q": "How can tourists get psychological support in Jordan?",
+    "A": "Psychological support services in Jordan are available at '110'."
+  },
+  {
+    "Q": "What is the number for water-related emergencies in UAE?",
+    "A": "Water-related emergencies in UAE can be reported to '991'."
+  },
+  {
+    "Q": "How do tourists request an ambulance in Libya?",
+    "A": "Ambulance services in Libya can be requested at '1515'."
+  },
+  {
+    "Q": "What is the hotline for missing persons in Qatar?",
+    "A": "Missing persons in Qatar should be reported at '999'."
+  },
+    {
+      "Q": "What is the general emergency number in the United Arab Emirates?",
+      "A": "The emergency number for police, ambulance, and fire services in the UAE is '999'."
+    },
+    {
+      "Q": "How can tourists report a lost credit card in Saudi Arabia?",
+      "A": "Tourists should immediately contact their bank or call the Saudi Arabian Monetary Authority (SAMA) at '+966 11 466 2255'."
+    },
+    {
+      "Q": "What is the emergency number for police assistance in Tunisia?",
+      "A": "The emergency police number in Tunisia is '197'."
+    },
+    {
+      "Q": "How can tourists report a cybercrime in Egypt?",
+      "A": "Cybercrimes in Egypt can be reported by calling the cybercrime unit at '108'."
+    },
+    {
+      "Q": "Which number should tourists call for emergency road assistance in Qatar?",
+      "A": "For emergency road assistance in Qatar, tourists can call '999'."
+    },
+    {
+      "Q": "What is the hotline for fire emergencies in Bahrain?",
+      "A": "Fire emergencies in Bahrain should be reported by calling '999'."
+    },
+    {
+      "Q": "How can tourists report a missing person in Jordan?",
+      "A": "Missing persons in Jordan should be reported to the police at '911'."
+    },
+    {
+      "Q": "What is the emergency contact number for medical emergencies in Kuwait?",
+      "A": "Medical emergencies in Kuwait can be reported to '112'."
+    },
+    {
+      "Q": "How can tourists file a complaint against a hotel in Saudi Arabia?",
+      "A": "Tourists can file complaints about hotels by calling the Saudi Tourism Authority at '930'."
+    },
+    {
+      "Q": "What is the emergency contact for the Moroccan Red Crescent?",
+      "A": "The Moroccan Red Crescent can be reached at '+212 537 77 51 11'."
+    },
+    {
+      "Q": "How do tourists report an earthquake in Algeria?",
+      "A": "Tourists should contact the Algerian Civil Protection at '14' for earthquake-related emergencies."
+    },
+    {
+      "Q": "What is the emergency number for drowning incidents in Lebanon?",
+      "A": "Drowning emergencies in Lebanon should be reported by calling '175'."
+    },
+    {
+      "Q": "How can tourists get legal assistance in Oman?",
+      "A": "Tourists in Oman can contact the Ministry of Justice and Legal Affairs at '+968 2464 1323'."
+    },
+    {
+      "Q": "Which number should tourists call for stolen items in UAE?",
+      "A": "Tourists can report stolen items to the UAE Police by dialing '901' for non-emergencies and '999' for urgent cases."
+    },
+    {
+      "Q": "What is the hotline for tourist complaints in Qatar?",
+      "A": "Tourists can report complaints to the Qatar National Tourism Council at '106'."
+    },
+    {
+      "Q": "How do tourists report fraudulent activities in Egypt?",
+      "A": "Fraudulent activities in Egypt can be reported to the police at '115'."
+    },
+    {
+      "Q": "What is the emergency number for tourist protection in Tunisia?",
+      "A": "The tourist police in Tunisia can be reached at '80 100 191'."
+    },
+    {
+      "Q": "How can tourists request a helicopter rescue in Saudi Arabia?",
+      "A": "Helicopter rescue services in Saudi Arabia can be requested by calling '998' (Civil Defense)."
+    },
+    {
+      "Q": "What is the emergency number for gas leaks in Bahrain?",
+      "A": "Gas leaks in Bahrain should be reported by calling '999'."
+    },
+    {
+      "Q": "How do tourists report harassment in Morocco?",
+      "A": "Harassment cases in Morocco can be reported to the police by calling '19'."
+    },
+    {
+      "Q": "What is the number for lost property at Dubai International Airport?",
+      "A": "Lost property at Dubai International Airport can be reported at '+971 4 224 5555'."
+    },
+    {
+      "Q": "How can tourists report a taxi scam in Qatar?",
+      "A": "Tourists can report taxi scams in Qatar by calling Mowasalat at '+974 4458 8888'."
+    },
+    {
+      "Q": "What is the hotline for ambulance services in Libya?",
+      "A": "In Libya, ambulance services can be reached at '1515'."
+    },
+    {
+      "Q": "How do tourists report illegal tour guides in Oman?",
+      "A": "Illegal tour guides in Oman can be reported to the Ministry of Heritage and Tourism at '+968 2208 2000'."
+    },
+    {
+      "Q": "What is the emergency number for flood response in UAE?",
+      "A": "Flood-related emergencies in UAE should be reported to '999'."
+    },
+    {
+      "Q": "How can tourists request first aid assistance in Jordan?",
+      "A": "First aid services in Jordan are available through the Civil Defense at '199'."
+    },
+    {
+      "Q": "Which number should tourists call for lost passports in Kuwait?",
+      "A": "Lost passports in Kuwait should be reported to the General Directorate of Passports at '112'."
+    },
+    {
+      "Q": "What is the emergency number for electricity failure in Tunisia?",
+      "A": "Electricity failures in Tunisia should be reported at '71 345 311'."
+    },
+    {
+      "Q": "How do tourists report a car accident in Egypt?",
+      "A": "Car accidents in Egypt should be reported to the police by calling '122'."
+    },
+    {
+      "Q": "What is the number for lost luggage complaints in Saudi Arabia?",
+      "A": "Lost luggage in Saudi Arabia can be reported to the airport authorities at '920011233'."
+    },
+    {
+      "Q": "How can tourists contact the Consumer Protection Authority in Oman?",
+      "A": "Tourists can contact the Consumer Protection Authority in Oman at '800 79009'."
+    },
+    {
+      "Q": "What is the emergency hotline for aviation security in UAE?",
+      "A": "Aviation security emergencies in UAE can be reported at '999'."
+    },
+    {
+      "Q": "How do tourists report illegal street vendors in Qatar?",
+      "A": "Illegal street vendors in Qatar can be reported to the Ministry of Commerce and Industry at '16001'."
+    },
+    {
+      "Q": "What is the emergency hotline for stranded tourists in Bahrain?",
+      "A": "Stranded tourists in Bahrain can contact the tourism emergency line at '+973 1758 6666'."
+    },
+    {
+      "Q": "How can tourists get assistance for damaged rental cars in Jordan?",
+      "A": "Tourists should contact their car rental company or call Jordanian police at '911'."
+    },
+    {
+      "Q": "What is the number for emergency road clearance in Saudi Arabia?",
+      "A": "Emergency road clearance in Saudi Arabia can be requested by calling '993'."
+    },
+    {
+      "Q": "How do tourists report overcrowded public transport in Egypt?",
+      "A": "Overcrowded public transport in Egypt can be reported to the Transport Ministry at '022690 0225'."
+    },
+    {
+      "Q": "What is the contact number for hazardous material emergencies in UAE?",
+      "A": "Hazardous material emergencies in UAE should be reported at '999'."
+    },
+    {
+      "Q": "How can tourists report illegal wildlife trade in Morocco?",
+      "A": "Illegal wildlife trade in Morocco can be reported to the Ministry of Environment at '+212 537 76 24 79'."
+    },
+    {
+      "Q": "What is the emergency number for poisoned food cases in Bahrain?",
+      "A": "Food poisoning cases in Bahrain should be reported at '+973 1729 8777'."
+    },
+    {
+      "Q": "How do tourists contact emergency services in Syria?",
+      "A": "Emergency services in Syria can be reached at '110'."
+    }
+
+],
+  "embassies": [
+    {
+      "Q": "How can a tourist find the location of their embassy in an Arab country?",
+      "A": "Tourists can find their embassy location by visiting the official government website of their country, using Google Maps, or checking the website of the host country's Ministry of Foreign Affairs."
+    },
+    {
+      "Q": "What is the best way to contact an embassy in case of an emergency?",
+      "A": "The best way to contact an embassy in an emergency is by calling their 24/7 emergency hotline, emailing their consular services, or visiting in person if possible."
+    },
+    {
+      "Q": "Can embassies provide assistance if a tourist loses their passport?",
+      "A": "Yes, embassies can issue emergency travel documents or temporary passports if a tourist loses their original passport."
+    },
+    {
+      "Q": "What are the usual working hours of embassies in Arab countries?",
+      "A": "Most embassies operate from Sunday to Thursday, 8:00 AM to 4:00 PM, but emergency services are available 24/7."
+    },
+    {
+      "Q": "How can a tourist verify if an embassy's contact details are correct?",
+      "A": "Tourists can verify an embassy’s contact details by checking their official website or the Ministry of Foreign Affairs website of their home country."
+    },
+    {
+      "Q": "Do embassies assist with legal issues or arrests?",
+      "A": "Yes, embassies can provide legal advice, recommend local lawyers, and inform the detained person's family, but they cannot interfere in legal proceedings."
+    },
+    {
+      "Q": "What should a tourist do if they cannot reach their embassy during an emergency?",
+      "A": "Tourists should contact their embassy’s emergency hotline, seek help from local authorities, or contact another allied embassy if their own is unavailable."
+    },
+    {
+      "Q": "Can embassies provide financial assistance to stranded tourists?",
+      "A": "Embassies do not provide direct financial assistance but can help tourists contact family members or suggest local charities and organizations for support."
+    },
+    {
+      "Q": "How can a tourist register with their embassy before traveling?",
+      "A": "Many embassies allow tourists to register online through their official websites or travel registration programs before their trip."
+    },
+    {
+      "Q": "What kind of support do embassies provide during natural disasters?",
+      "A": "Embassies provide emergency updates, coordinate evacuations, and offer consular assistance to affected nationals."
+    },
+    {
+      "Q": "Can embassies help with visa extensions in Arab countries?",
+      "A": "Embassies cannot extend visas but can guide tourists on the local immigration process for visa extensions."
+    },
+    {
+      "Q": "What documents should a tourist carry when visiting their embassy?",
+      "A": "Tourists should carry their passport, a copy of their visa, travel insurance details, and any relevant documents related to their case."
+    },
+    {
+      "Q": "Can embassies provide medical assistance?",
+      "A": "Embassies do not provide medical treatment but can offer a list of recommended hospitals and assist in contacting family or insurance providers."
+    },
+    {
+      "Q": "How can tourists find the emergency contact number of their embassy?",
+      "A": "Tourists can find emergency contact numbers on the embassy’s official website or their government’s travel advisory pages."
+    },
+    {
+      "Q": "Do embassies offer help in cases of stolen personal belongings?",
+      "A": "Embassies can provide advice on reporting theft to local authorities and help tourists replace important documents like passports."
+    },
+    {
+      "Q": "Can an embassy help a tourist who has been scammed?",
+      "A": "Yes, embassies can provide guidance on reporting scams to local police and recommend legal assistance."
+    },
+    {
+      "Q": "What should a tourist do if their embassy is closed during an emergency?",
+      "A": "Tourists should call the emergency hotline of their embassy, contact another allied embassy, or seek help from local authorities."
+    },
+    {
+      "Q": "Can a tourist visit any embassy, or must they go to their own country's embassy?",
+      "A": "Tourists must visit their own country's embassy, but in certain cases, allied embassies may provide assistance if there is no embassy of their home country available."
+    },
+    {
+      "Q": "Do embassies offer interpreter services for tourists?",
+      "A": "Some embassies provide interpreter services or can recommend reliable local interpreters for legal and medical situations."
+    },
+    {
+      "Q": "How do tourists file complaints about embassy services?",
+      "A": "Complaints about embassy services can be filed through the official government website of the tourist’s home country or through the embassy’s contact channels."
+    },
+    {
+      "Q": "Can embassies issue new passports on the same day?",
+      "A": "Some embassies can issue emergency travel documents on the same day, but full passport replacements usually take longer."
+    },
+    {
+      "Q": "Can embassies help tourists who are victims of assault?",
+      "A": "Yes, embassies can provide guidance on reporting the incident, assist in contacting family, and recommend legal and medical support services."
+    },
+    {
+      "Q": "What is the difference between an embassy and a consulate?",
+      "A": "An embassy is the main diplomatic office of a country, while consulates handle local assistance like visas, lost passports, and emergency aid."
+    },
+    {
+      "Q": "Can embassies help tourists who are being harassed or stalked?",
+      "A": "Yes, embassies can advise on legal measures, provide emergency assistance, and help tourists report cases to local authorities."
+    },
+    {
+      "Q": "How can a tourist know if their country has an embassy in an Arab nation?",
+      "A": "Tourists can check the official website of their Ministry of Foreign Affairs to find a list of embassies abroad."
+    },
+    {
+      "Q": "Do embassies provide translation services for legal documents?",
+      "A": "Embassies do not typically provide translation services but can recommend certified translators."
+    },
+    {
+      "Q": "Can embassies help with arranging emergency evacuations?",
+      "A": "Yes, during crises like wars or natural disasters, embassies coordinate emergency evacuations for their nationals."
+    },
+    {
+      "Q": "Are embassy services free for tourists?",
+      "A": "Basic consular services are free, but passport replacements, notary services, and some legal services may have fees."
+    },
+    {
+      "Q": "Can tourists seek shelter in an embassy during riots or unrest?",
+      "A": "Embassies generally do not offer shelter but can provide advice and coordinate emergency evacuation plans if necessary."
+    },
+    {
+      "Q": "What should a tourist do if they are denied entry at the airport?",
+      "A": "Tourists should contact their embassy immediately for legal advice and assistance in understanding immigration policies."
+    },
+    {
+      "Q": "Can embassies help tourists who miss their flights?",
+      "A": "Embassies do not assist with missed flights but can help if a tourist loses important travel documents needed for rebooking."
+    },
+    {
+      "Q": "Do embassies assist tourists with child custody disputes?",
+      "A": "Embassies can provide legal guidance and recommend local lawyers but cannot interfere with local custody laws."
+    },
+    {
+      "Q": "Can tourists use embassy services even if they are not in trouble?",
+      "A": "Yes, tourists can visit embassies for information, document verification, and general assistance while abroad."
+    },
+    {
+      "Q": "Can embassies help tourists who need urgent money transfers?",
+      "A": "Embassies do not provide money but can help tourists contact family or financial institutions to arrange transfers."
+    },
+    {
+      "Q": "How can tourists stay updated on embassy alerts and warnings?",
+      "A": "Tourists should register with their embassy’s travel advisory service or follow their official website for updates."
+    },
+    {
+      "Q": "Can embassies assist in cases of forced marriages?",
+      "A": "Yes, embassies can provide legal assistance, coordinate rescues, and connect victims with protection agencies."
+    },
+    {
+      "Q": "What is the emergency hotline of the US Embassy in Saudi Arabia?",
+      "A": "The US Embassy emergency hotline in Saudi Arabia is '+966 11 488 3800'."
+    },
+    
+    {
+      "Q": "Can a tourist visit an embassy without an appointment?",
+      "A": "Most embassies require an appointment for non-emergency services, but emergencies like lost passports or detentions may be handled without one."
+    },
+    {
+      "Q": "Do embassies provide shelter during war or conflict?",
+      "A": "Embassies do not usually provide shelter but can coordinate evacuations and advise on safe locations."
+    },
+    {
+      "Q": "How can tourists locate the nearest consulate if there is no embassy in the country?",
+      "A": "Tourists can check their Ministry of Foreign Affairs website or contact the embassy in a neighboring country for assistance."
+    },
+    {
+      "Q": "Can a tourist renew their passport at an embassy?",
+      "A": "Yes, tourists can apply for passport renewal at their embassy, but processing times may vary."
+    },
+    {
+      "Q": "What should a tourist do if their embassy refuses to help?",
+      "A": "Tourists should escalate their case by contacting the Ministry of Foreign Affairs in their home country."
+    },
+    {
+      "Q": "Can an embassy help in case of wrongful arrest?",
+      "A": "Yes, embassies can ensure fair treatment, provide legal contacts, and notify family members."
+    },
+    {
+      "Q": "Do embassies provide financial aid to tourists in distress?",
+      "A": "Embassies do not provide direct financial aid but can help contact family or provide a list of local charities."
+    },
+    {
+      "Q": "Can embassies help recover lost luggage at the airport?",
+      "A": "No, lost luggage should be reported to the airline, but embassies can help if important travel documents were lost."
+    },
+    {
+      "Q": "What is the role of an honorary consulate?",
+      "A": "Honorary consulates provide limited consular services in locations where a full embassy or consulate is not present."
+    },
+    {
+      "Q": "Can a tourist use embassy services if they are not a citizen of that country?",
+      "A": "No, embassy services are only for citizens of that country, but allied embassies may assist in certain cases."
+    },
+    {
+      "Q": "Can embassies assist with lost or stolen credit cards?",
+      "A": "Embassies do not handle financial matters but can help tourists contact their banks for assistance."
+    },
+    {
+      "Q": "Do embassies offer notary services for legal documents?",
+      "A": "Yes, most embassies provide notary services, but fees and appointment requirements vary."
+    },
+    {
+      "Q": "How can tourists report embassy misconduct?",
+      "A": "Tourists can report misconduct to their home country’s Ministry of Foreign Affairs or through embassy feedback forms."
+    },
+    {
+      "Q": "Can an embassy help if a tourist is denied medical treatment?",
+      "A": "Embassies can provide a list of medical facilities and assist in contacting insurance providers but cannot force hospitals to provide care."
+    },
+    {
+      "Q": "Can embassies help repatriate deceased tourists?",
+      "A": "Yes, embassies assist in repatriating bodies, coordinating with funeral services, and contacting the deceased’s family."
+    },
+    {
+      "Q": "Can embassies assist with arranging funerals abroad?",
+      "A": "Embassies can provide guidance and contacts for local funeral arrangements but do not cover costs."
+    },
+    {
+      "Q": "What is the difference between an emergency passport and a regular passport?",
+      "A": "An emergency passport is a temporary document issued quickly for urgent travel, while a regular passport is a full-validity document."
+    },
+    {
+      "Q": "Can a tourist get married at their embassy?",
+      "A": "Some embassies offer marriage services, but requirements vary and local laws must be followed."
+    },
+    {
+      "Q": "Do embassies help in cases of domestic violence?",
+      "A": "Yes, embassies can connect victims with shelters, legal assistance, and emergency services."
+    },
+    {
+      "Q": "What happens if a tourist loses all their identification documents?",
+      "A": "The tourist should immediately report the loss to the embassy and local police to obtain emergency travel documents."
+    },
+    {
+      "Q": "Do embassies provide emergency loans for stranded tourists?",
+      "A": "Embassies do not offer loans but can facilitate money transfers from family or financial institutions."
+    },
+    {
+      "Q": "Can embassies provide safe houses for at-risk citizens?",
+      "A": "Embassies do not provide safe houses but can coordinate protection with local authorities."
+    },
+    {
+      "Q": "Can an embassy issue a visa to enter another country?",
+      "A": "No, visas are issued by the embassy of the country a tourist wants to visit, not their own embassy."
+    },
+    {
+      "Q": "What should a tourist do if they feel unsafe in a foreign country?",
+      "A": "Tourists should contact their embassy for safety guidance, register for updates, and avoid dangerous areas."
+    },
+    {
+      "Q": "Can embassies provide emergency transportation?",
+      "A": "Embassies do not provide transportation but can help tourists arrange transport through airlines or local authorities."
+    },
+    {
+      "Q": "Can embassies help tourists who are being forced into labor?",
+      "A": "Yes, embassies can work with local authorities to rescue victims of forced labor and provide legal support."
+    },
+    {
+      "Q": "What should a tourist do if their embassy is closed due to a holiday?",
+      "A": "Tourists should use the emergency hotline, which operates 24/7, even on holidays."
+    },
+    {
+      "Q": "Do embassies offer legal representation in court cases?",
+      "A": "Embassies do not provide legal representation but can recommend local attorneys."
+    },
+    {
+      "Q": "Can embassies issue emergency travel documents for children?",
+      "A": "Yes, but legal guardians must provide necessary documentation for minor travel permits."
+    },
+    {
+      "Q": "What are some reasons a tourist might be denied help by an embassy?",
+      "A": "Tourists may be denied help if they are involved in illegal activities, have dual citizenship issues, or fail to provide required documents."
+    },
+    {
+      "Q": "Can a tourist seek asylum at their embassy?",
+      "A": "Seeking asylum at an embassy is complex and depends on international and host country laws."
+    },
+    {
+      "Q": "Can embassies assist in cases of missing persons?",
+      "A": "Yes, embassies work with local police and families to locate missing citizens."
+    },
+    {
+      "Q": "How can tourists verify an embassy’s legitimacy to avoid scams?",
+      "A": "Tourists should only use official government websites and avoid contacting third-party agencies claiming to be embassies."
+    },
+    {
+      "Q": "Can an embassy help a tourist avoid deportation?",
+      "A": "Embassies can provide legal advice and communicate with immigration authorities, but they cannot prevent deportation."
+    },
+    {
+      "Q": "What should a tourist do if their visa expires while abroad?",
+      "A": "Tourists must contact local immigration authorities for extension options; embassies can provide guidance but cannot extend visas."
+    },
+    {
+      "Q": "Can embassies intervene in local court cases?",
+      "A": "Embassies cannot interfere with local legal matters but can ensure fair treatment and legal representation."
+    },
+    {
+      "Q": "Do embassies issue police clearance certificates?",
+      "A": "Some embassies offer this service, but requirements vary by country."
+    },
+    {
+      "Q": "Can embassies issue emergency visas for tourists to return home?",
+      "A": "Embassies can issue emergency travel documents but not visas for the home country."
+    },
+    {
+      "Q": "Do embassies help tourists who have been detained for political reasons?",
+      "A": "Embassies can monitor the case and ensure fair treatment, but their involvement depends on diplomatic agreements."
+    },
+    {
+      "Q": "Can embassies help in cases of military conscription issues?",
+      "A": "Embassies can provide legal guidance, but tourists must comply with their home country's military laws."
+    },
+    {
+      "Q": "Do embassies provide shelter for homeless citizens abroad?",
+      "A": "Embassies do not provide shelter but can connect citizens with local aid organizations."
+    },
+  {
+    "Q": "Can embassies provide translation services for tourists?",
+    "A": "Embassies do not usually provide translation services but can recommend certified translators."
+  },
+  {
+    "Q": "Can a tourist file a complaint against an embassy?",
+    "A": "Yes, complaints can be filed through the embassy’s official website or the Ministry of Foreign Affairs of the tourist's home country."
+  },
+  {
+    "Q": "Do embassies provide travel insurance?",
+    "A": "No, embassies do not provide travel insurance, but they can advise on obtaining one."
+  },
+  {
+    "Q": "How can a tourist confirm the exact location of their embassy?",
+    "A": "Tourists should check the official government website or contact their foreign affairs department."
+  },
+  {
+    "Q": "Can embassies provide temporary identification cards?",
+    "A": "Embassies may issue emergency travel documents but not general identification cards."
+  },
+  {
+    "Q": "What should a tourist do if the embassy refuses to issue an emergency passport?",
+    "A": "They should ask for a written explanation and escalate the case to their country’s foreign affairs department."
+  },
+  {
+    "Q": "Can embassies help tourists in case of natural disasters?",
+    "A": "Yes, embassies can provide safety updates and assist in evacuation if necessary."
+  },
+  {
+    "Q": "Do embassies assist in cases of human trafficking?",
+    "A": "Yes, embassies can coordinate with law enforcement agencies to rescue victims and provide legal support."
+  },
+  {
+    "Q": "Can embassies help tourists who have been scammed?",
+    "A": "Embassies can advise on legal action and direct tourists to local authorities but cannot recover lost money."
+  },
+  {
+    "Q": "What happens if a tourist dies in a foreign country without known family?",
+    "A": "The embassy will work with local authorities to handle the body and attempt to locate relatives."
+  },
+  {
+    "Q": "Can embassies provide emergency food or shelter?",
+    "A": "Embassies do not provide food or shelter but can direct tourists to local aid organizations."
+  },
+  {
+    "Q": "Can embassies help tourists who are victims of cybercrime?",
+    "A": "Embassies can provide legal guidance and recommend reporting cybercrime to local authorities."
+  },
+  {
+    "Q": "Can tourists apply for refugee status at their embassy?",
+    "A": "Embassies typically do not process refugee applications; such requests must be made through international agencies like the UNHCR."
+  },
+  {
+    "Q": "Can an embassy help a tourist who missed their flight?",
+    "A": "Embassies do not handle flight issues but can help if a tourist is stranded without money or documents."
+  },
+  {
+    "Q": "Can embassies intervene if a tourist is denied entry at a border?",
+    "A": "Embassies cannot override immigration decisions but can provide legal assistance and advice."
+  },
+  {
+    "Q": "Can embassies help if a tourist is blacklisted from entering a country?",
+    "A": "Embassies cannot remove a blacklist status but can explain the reasons and advise on legal options."
+  },
+  {
+    "Q": "What can embassies do for tourists who lose access to their bank accounts?",
+    "A": "Embassies can facilitate contact with banks but do not handle financial transactions."
+  },
+  {
+    "Q": "Can a tourist use another country’s embassy if theirs is closed?",
+    "A": "Some countries have agreements allowing citizens to seek assistance from allied embassies."
+  },
+  {
+    "Q": "Can embassies provide letters of recommendation for legal matters?",
+    "A": "Embassies do not provide legal recommendations but can verify identity for official matters."
+  },
+  {
+    "Q": "Do embassies offer legal workshops or advice sessions?",
+    "A": "Some embassies provide information sessions on legal rights, especially for expatriates."
+  },
+  {
+    "Q": "Can embassies issue birth certificates for children born abroad?",
+    "A": "Yes, parents can register a child’s birth at the embassy and obtain a consular birth certificate."
+  },
+  {
+    "Q": "Can a tourist request a background check from their embassy?",
+    "A": "Some embassies provide police clearance certificates, but processing times vary."
+  },
+  {
+    "Q": "Can an embassy verify a tourist’s medical history?",
+    "A": "Embassies do not have access to medical records but can help contact home country medical authorities."
+  },
+  {
+    "Q": "Can embassies issue business licenses?",
+    "A": "No, embassies do not issue business licenses but can provide information on local business regulations."
+  },
+  {
+    "Q": "Can embassies assist tourists who are stranded in remote areas?",
+    "A": "Embassies can coordinate with local authorities to facilitate rescue operations."
+  },
+  {
+    "Q": "Can embassies provide tourists with maps or travel guides?",
+    "A": "Some embassies offer travel safety brochures, but detailed guides are usually provided by tourism offices."
+  },
+  {
+    "Q": "Can embassies issue emergency visas for family visits?",
+    "A": "Embassies do not issue visas for other countries but can provide documentation support."
+  },
+  {
+    "Q": "What should a tourist do if they are banned from leaving a country?",
+    "A": "They should contact their embassy for legal guidance and assistance in appealing the ban."
+  },
+  {
+    "Q": "Can embassies help with international custody disputes?",
+    "A": "Embassies can provide legal resources but cannot intervene in local custody cases."
+  },
+  {
+    "Q": "Do embassies have emergency funds for tourists?",
+    "A": "Embassies do not provide funds but can assist in arranging money transfers from family or friends."
+  },
+  {
+    "Q": "Can embassies provide Wi-Fi access to tourists in emergency situations?",
+    "A": "Some embassies offer Wi-Fi in waiting areas, but availability varies."
+  },
+  {
+    "Q": "Do embassies help tourists who have lost their driving licenses?",
+    "A": "Embassies cannot issue new driving licenses but can help verify identity for replacements."
+  },
+  {
+    "Q": "Can embassies help in cases of medical malpractice abroad?",
+    "A": "Embassies can provide legal contacts but cannot intervene in private medical disputes."
+  },
+  {
+    "Q": "Can a tourist report embassy staff for misconduct?",
+    "A": "Yes, complaints can be filed through official embassy channels or the home country’s foreign ministry."
+  },
+  {
+    "Q": "Do embassies provide voting services for expatriates?",
+    "A": "Many embassies offer voting assistance for citizens during elections."
+  },
+  {
+    "Q": "Can a tourist work at their embassy while abroad?",
+    "A": "Most embassy jobs require official hiring processes, but some offer internships."
+  },
+  {
+    "Q": "Can embassies provide emergency legal representation for detainees?",
+    "A": "Embassies do not provide lawyers but can recommend legal aid services."
+  },
+  {
+    "Q": "Do embassies help in cases of forced marriages?",
+    "A": "Yes, embassies assist victims of forced marriages by providing safe return options and legal support."
+  },
+  {
+    "Q": "Can embassies provide assistance for refugees?",
+    "A": "Embassies do not handle refugee applications but can direct individuals to appropriate agencies."
+  },
+  {
+    "Q": "Can embassies help tourists experiencing discrimination?",
+    "A": "Embassies can provide legal resources but cannot intervene in private disputes."
+  },
+  {
+    "Q": "Do embassies have programs to assist elderly tourists?",
+    "A": "Some embassies provide special assistance for elderly travelers in distress."
+  },
+  {
+    "Q": "Can embassies arrange emergency evacuations?",
+    "A": "Yes, in cases of extreme danger, embassies coordinate with governments for evacuation."
+  },
+  {
+    "Q": "Can embassies assist in repatriating criminals?",
+    "A": "Embassies may facilitate legal procedures but do not interfere in criminal cases."
+  },
+    {
+      "Q": "Can an embassy help a tourist retrieve lost luggage at an airport?",
+      "A": "Embassies cannot retrieve lost luggage but can assist in contacting the airline and airport authorities."
+    },
+    {
+      "Q": "Do embassies provide assistance for victims of domestic violence?",
+      "A": "Yes, embassies can assist victims by providing legal resources, shelter information, and repatriation assistance."
+    },
+    {
+      "Q": "Can a tourist receive financial compensation from an embassy for an accident?",
+      "A": "No, embassies do not offer financial compensation but can help with legal referrals."
+    },
+    {
+      "Q": "Can embassies provide notarization services for legal documents?",
+      "A": "Yes, many embassies offer notarization services for official documents."
+    },
+    {
+      "Q": "Do embassies assist tourists who have lost contact with family members?",
+      "A": "Yes, embassies can assist in locating family members and relaying messages."
+    },
+    {
+      "Q": "Can embassies issue visas for another country?",
+      "A": "No, embassies only issue visas for their own country. Tourists must apply at the relevant embassy."
+    },
+    {
+      "Q": "Can a tourist store their valuables at an embassy?",
+      "A": "No, embassies do not offer storage services for personal belongings."
+    },
+    {
+      "Q": "What should a tourist do if they are detained at an embassy?",
+      "A": "Embassies are not detention centers, but if detained, tourists should seek legal representation immediately."
+    },
+    {
+      "Q": "Can an embassy recommend doctors or hospitals?",
+      "A": "Yes, embassies can provide a list of recommended hospitals and doctors."
+    },
+    {
+      "Q": "Do embassies provide legal representation in court?",
+      "A": "No, but they can provide lists of trusted lawyers."
+    },
+    {
+      "Q": "Can embassies help tourists who face racial or religious discrimination?",
+      "A": "Embassies can provide guidance on local laws regarding discrimination and suggest legal action."
+    },
+    {
+      "Q": "Can a tourist be banned from their own country by their embassy?",
+      "A": "No, embassies do not have the authority to ban citizens from returning home."
+    },
+    {
+      "Q": "Do embassies conduct background checks on tourists?",
+      "A": "No, but they may verify identity for certain legal processes."
+    },
+    {
+      "Q": "Can an embassy provide financial aid for medical emergencies?",
+      "A": "Embassies do not offer financial aid but can help contact family or insurance providers."
+    },
+    {
+      "Q": "Can a tourist apply for asylum at their embassy?",
+      "A": "No, embassies do not process asylum applications; they must be submitted to international organizations like the UNHCR."
+    },
+    {
+      "Q": "Can embassies issue emergency visas for a tourist’s companion?",
+      "A": "Embassies can assist in documentation but do not issue emergency visas for non-citizens."
+    },
+    {
+      "Q": "Can embassies recommend safe travel routes?",
+      "A": "Yes, embassies often provide travel advisories with safe route recommendations."
+    },
+    {
+      "Q": "Do embassies intervene in commercial disputes for tourists?",
+      "A": "No, but they can guide tourists on how to file complaints through legal channels."
+    },
+    {
+      "Q": "Can a tourist register their presence in a country at their embassy?",
+      "A": "Yes, many embassies encourage tourists to register their stay for emergency purposes."
+    },
+    {
+      "Q": "Can a tourist seek medical treatment at their embassy?",
+      "A": "No, embassies do not provide medical treatment but can refer tourists to healthcare facilities."
+    },
+    {
+      "Q": "Do embassies offer language courses for tourists?",
+      "A": "Some embassies offer cultural and language exchange programs but not formal courses for tourists."
+    },
+    {
+      "Q": "Can embassies provide tax-related advice for tourists?",
+      "A": "Embassies do not handle tax matters but can provide contacts for tax professionals."
+    },
+    {
+      "Q": "Can a tourist request a police escort through their embassy?",
+      "A": "No, but embassies can advise on security measures and contact local authorities if needed."
+    },
+    {
+      "Q": "Do embassies provide mobile SIM cards for tourists?",
+      "A": "No, but they may advise on where to purchase SIM cards with reliable networks."
+    },
+    {
+      "Q": "Can a tourist stay overnight at an embassy?",
+      "A": "No, embassies do not provide accommodation."
+    },
+    {
+      "Q": "Do embassies assist with lost child cases?",
+      "A": "Yes, embassies can work with local authorities to locate missing children."
+    },
+    {
+      "Q": "Can an embassy provide security escorts for VIP tourists?",
+      "A": "No, but they can advise on hiring private security services."
+    },
+    {
+      "Q": "Can embassies help with diplomatic immunity cases?",
+      "A": "Diplomatic immunity cases are handled by government legal teams, not embassies."
+    },
+    {
+      "Q": "Can a tourist take shelter at an embassy during a protest?",
+      "A": "Embassies generally do not allow unauthorized individuals to take shelter."
+    },
+    {
+      "Q": "Do embassies issue marriage certificates for citizens marrying abroad?",
+      "A": "Embassies can register marriages but do not issue marriage certificates."
+    },
+    {
+      "Q": "Can an embassy verify a hotel’s legitimacy?",
+      "A": "Embassies do not verify hotels but can provide safety recommendations."
+    },
+    {
+      "Q": "Can a tourist renew their driving license at an embassy?",
+      "A": "No, driving licenses must be renewed through local authorities."
+    },
+    {
+      "Q": "Do embassies help tourists who have been hacked online?",
+      "A": "Embassies can advise on cybersecurity measures but do not intervene in personal digital security cases."
+    },
+    {
+      "Q": "Can an embassy stop a deportation order?",
+      "A": "Embassies cannot cancel deportations but can ensure fair legal procedures."
+    },
+    {
+      "Q": "Can embassies assist tourists facing visa fraud?",
+      "A": "Yes, embassies can guide tourists on reporting visa fraud and taking legal action."
+    },
+    {
+      "Q": "Do embassies provide contact information for local police?",
+      "A": "Yes, embassies maintain lists of emergency contacts for local authorities."
+    },
+    {
+      "Q": "Can embassies arrange transport for stranded tourists?",
+      "A": "Embassies do not arrange transport but can suggest safe travel options."
+    },
+    {
+      "Q": "Do embassies issue travel permits for restricted areas?",
+      "A": "No, travel permits are issued by the host country’s authorities."
+    },
+    {
+      "Q": "Can embassies assist tourists accused of espionage?",
+      "A": "Embassies can provide legal guidance but cannot interfere in espionage cases."
+    },
+    {
+      "Q": "Do embassies help with pet transportation issues?",
+      "A": "No, but they can provide information on airline and customs regulations for pet travel."
+    },
+    {
+      "Q": "Can embassies issue emergency visas for funerals?",
+      "A": "Embassies can facilitate documentation but do not issue visas for other countries."
+    },
+    {
+      "Q": "Do embassies provide assistance in case of hotel fraud?",
+      "A": "Yes, embassies can guide tourists on reporting fraudulent hotels to the authorities."
+    },
+    {
+      "Q": "Can an embassy provide travel warnings about a specific location?",
+      "A": "Yes, embassies provide official travel advisories and security updates."
+    },
+    {
+      "Q": "Can embassies help tourists caught in violent riots?",
+      "A": "Yes, they can provide safety instructions and coordinate evacuation if necessary."
+    }
+  ],
+  
+  "Visa & Entry Requirements": [
+    {
+      "Q": "What are the common visa types available for tourists visiting the Arab world?",
+      "A": "The common visa types include tourist visas, business visas, transit visas, student visas, and work visas. Some countries also offer e-visas and visa-on-arrival options."
+    },
+    {
+      "Q": "Which Arab countries offer visa-free entry for U.S. passport holders?",
+      "A": "U.S. passport holders can enter the UAE, Qatar, and Morocco visa-free for up to 90 days. Other countries, like Jordan and Egypt, offer visas on arrival."
+    },
+    {
+      "Q": "What is a visa-on-arrival, and which Arab countries offer it?",
+      "A": "A visa-on-arrival allows travelers to obtain a visa at the airport upon entry. Countries like Jordan, Egypt, and Bahrain offer this for certain nationalities."
+    },
+    {
+      "Q": "How long can tourists stay in Saudi Arabia with a tourist visa?",
+      "A": "Saudi Arabia's e-visa allows tourists to stay for up to 90 days per visit within a one-year validity period."
+    },
+    {
+      "Q": "Which Arab countries require an invitation letter for a tourist visa?",
+      "A": "Algeria, Libya, and sometimes Sudan require an invitation letter from a host or tour operator to apply for a tourist visa."
+    },
+    {
+      "Q": "Can tourists apply for an e-visa to visit Egypt?",
+      "A": "Yes, Egypt offers an e-visa for over 70 nationalities, allowing stays of up to 30 days for tourism purposes."
+    },
+    {
+      "Q": "Do tourists need to show proof of accommodation when applying for a visa to the UAE?",
+      "A": "Yes, visitors applying for a UAE visa must provide hotel bookings or an invitation letter from a resident."
+    },
+    {
+      "Q": "What is the validity period of a Moroccan tourist visa?",
+      "A": "A Moroccan tourist visa is typically valid for 90 days, with stays limited to 30 days per visit."
+    },
+    {
+      "Q": "Are there any Arab countries where a visa is required but can be obtained at the border?",
+      "A": "Yes, Jordan allows certain nationalities to obtain a visa at the airport or land borders."
+    },
+    {
+      "Q": "Which Arab countries require biometric data for visa applications?",
+      "A": "Countries like Saudi Arabia and Algeria require biometric data (fingerprints and photos) for visa processing."
+    },
+    {
+      "Q": "Can tourists extend their visa while staying in the UAE?",
+      "A": "Yes, UAE tourist visas can be extended twice for 30 days each, but additional fees apply."
+    },
+    {
+      "Q": "What documents are required for a Schengen visa from an Arab country?",
+      "A": "Documents include a valid passport, visa application form, proof of accommodation, travel itinerary, financial proof, and travel insurance."
+    },
+    {
+      "Q": "Which Arab countries require travelers to have a return ticket for entry?",
+      "A": "Most Arab countries, including UAE, Qatar, and Saudi Arabia, require proof of onward travel or a return ticket."
+    },
+    {
+      "Q": "Can tourists apply for a multiple-entry visa to Egypt?",
+      "A": "Yes, Egypt offers multiple-entry visas valid for 6 months, allowing multiple visits within that period."
+    },
+    {
+      "Q": "Do GCC residents need a visa to visit Oman?",
+      "A": "GCC residents can obtain a visa on arrival in Oman, provided they hold a valid residency permit from another GCC country."
+    },
+    {
+      "Q": "What is the maximum stay for a tourist visa in Tunisia?",
+      "A": "Tourists can stay in Tunisia visa-free for up to 90 days, depending on nationality."
+    },
+    {
+      "Q": "Are medical tests required for visa applications in Arab countries?",
+      "A": "Medical tests are usually required for work visas but not for tourist visas."
+    },
+    {
+      "Q": "Do Arab countries issue visas for digital nomads?",
+      "A": "Yes, the UAE offers a Remote Work Visa for digital nomads, valid for up to one year."
+    },
+    {
+      "Q": "Can tourists enter Lebanon without a visa?",
+      "A": "Citizens of GCC countries can enter Lebanon visa-free, while others may require a visa-on-arrival or prior application."
+    },
+    {
+      "Q": "Are transit visas required for layovers in Arab countries?",
+      "A": "Some countries, like Saudi Arabia and Qatar, offer free transit visas for short layovers, while others may require a visa."
+    },
+    {
+      "Q": "Which Arab countries allow visa-free entry for European Union citizens?",
+      "A": "Morocco, Tunisia, and the UAE allow EU citizens to enter without a visa for short stays."
+    },
+    {
+      "Q": "What is the visa validity period for Qatar’s e-visa?",
+      "A": "Qatar’s e-visa is typically valid for 30 days, with some options for extension."
+    },
+    {
+      "Q": "Can a tourist convert their visa into a work visa in the UAE?",
+      "A": "Yes, tourists can apply for a work visa while in the UAE, but they must leave the country for final processing."
+    },
+    {
+      "Q": "Is a yellow fever vaccination required for visas to Arab countries?",
+      "A": "Some countries, like Sudan and Yemen, require proof of yellow fever vaccination for travelers arriving from infected areas."
+    },
+    {
+      "Q": "Can a tourist visa be rejected in Arab countries?",
+      "A": "Yes, visa applications can be rejected due to incomplete documentation, security concerns, or past immigration violations."
+    },
+    {
+      "Q": "Do Arab countries require travel insurance for a tourist visa?",
+      "A": "Some countries, like the UAE and Oman, require travel insurance as part of the visa application."
+    },
+    {
+      "Q": "Are there Arab countries that issue visas upon arrival for Indian passport holders?",
+      "A": "Yes, Jordan, Egypt, and the UAE offer visas on arrival for Indian passport holders under certain conditions."
+    },
+    {
+      "Q": "Can tourists visit multiple Arab countries with one visa?",
+      "A": "No, each country has its own visa policy, but GCC residents have some privileges for regional travel."
+    },
+    {
+      "Q": "What happens if a tourist overstays their visa in an Arab country?",
+      "A": "Overstaying a visa results in fines, possible deportation, and future entry bans."
+    },
+    {
+      "Q": "Which Arab countries allow visa-free entry for Malaysian citizens?",
+      "A": "Malaysia passport holders can enter UAE, Tunisia, and Morocco visa-free for short stays."
+    },
+    {
+      "Q": "Can a criminal record affect a tourist visa application to an Arab country?",
+      "A": "Yes, some countries conduct background checks and may deny visas based on past criminal records."
+    },
+    {
+      "Q": "Are visa-on-arrival fees refundable if entry is denied?",
+      "A": "No, visa fees are generally non-refundable, even if entry is denied."
+    },
+    {
+      "Q": "Can tourists enter Saudi Arabia with an e-visa for religious tourism?",
+      "A": "Yes, tourists can use an e-visa for religious tourism, including Umrah, but not Hajj."
+    },
+    {
+      "Q": "Which Arab countries allow Israeli passport holders to enter?",
+      "A": "The UAE, Bahrain, Morocco, and Egypt allow Israeli passport holders to enter with a visa."
+    },
+    {
+      "Q": "What is the Schengen equivalent for travel between Arab countries?",
+      "A": "The GCC visa system allows easier travel between Gulf Cooperation Council countries for residents."
+    },
+    {
+      "Q": "Can tourists travel between Jordan and Palestine with a single visa?",
+      "A": "No, travelers must apply for entry permits separately for Jordan and the Palestinian territories."
+    },
+    {
+      "Q": "Do Arab countries offer expedited visa processing?",
+      "A": "Yes, countries like the UAE offer express visa services for urgent applications."
+    },
+    {
+      "Q": "Can tourists apply for a visa extension while in Saudi Arabia?",
+      "A": "Yes, tourists can apply for an extension through the Absher portal or at a Jawazat office before their visa expires."
+    },
+    {
+      "Q": "What are the visa requirements for traveling to Iraq as a tourist?",
+      "A": "Most nationalities require a visa issued by an Iraqi consulate. However, some visitors can obtain a visa-on-arrival at Baghdad, Basra, or Najaf airports."
+    },
+    {
+      "Q": "Do I need a visa to visit Djibouti as a tourist?",
+      "A": "Yes, Djibouti offers an e-visa system that allows tourists to apply online before arrival."
+    },
+    {
+      "Q": "What is the penalty for overstaying a visa in the UAE?",
+      "A": "Overstayers are fined AED 50 per day, with additional administrative charges."
+    },
+    {
+      "Q": "Can I work in an Arab country with a tourist visa?",
+      "A": "No, a tourist visa does not permit employment. You must obtain a work visa sponsored by an employer."
+    },
+    {
+      "Q": "What types of entry visas does Bahrain offer?",
+      "A": "Bahrain offers e-visas, visa-on-arrival, and multiple-entry visas for different nationalities."
+    },
+    {
+      "Q": "Are there any Arab countries that issue visas for family visits?",
+      "A": "Yes, countries like Saudi Arabia, the UAE, and Qatar offer family visit visas for relatives of residents."
+    },
+    {
+      "Q": "Do I need a visa to enter Sudan if I am a GCC resident?",
+      "A": "Yes, all travelers need a visa, but GCC residents may get expedited processing."
+    },
+    {
+      "Q": "Is it possible to get a business visa for Egypt without a sponsor?",
+      "A": "No, a business visa requires an invitation from an Egyptian company or organization."
+    },
+    {
+      "Q": "Which Arab countries require visas for South American tourists?",
+      "A": "Most South American passport holders need visas for Saudi Arabia, Algeria, and Libya, but they can enter Morocco visa-free."
+    },
+    {
+      "Q": "Can I apply for a tourist visa at the airport in Yemen?",
+      "A": "No, visas must be obtained in advance from a Yemeni embassy."
+    },
+    {
+      "Q": "What is the age limit for applying for a tourist visa to Oman?",
+      "A": "There is no specific age limit, but minors need parental consent."
+    },
+    {
+      "Q": "Can I get a visa-on-arrival in Mauritania?",
+      "A": "Yes, visas can be obtained upon arrival at Nouakchott International Airport."
+    },
+    {
+      "Q": "Do transit passengers in Kuwait need a visa?",
+      "A": "A visa is not required for transits under 24 hours, provided passengers remain in the airport."
+    },
+    {
+      "Q": "What is the validity of a single-entry Jordanian tourist visa?",
+      "A": "A single-entry Jordanian visa is valid for 30 days."
+    },
+    {
+      "Q": "Can a visa for the UAE be extended beyond 90 days?",
+      "A": "No, after two 30-day extensions, you must leave and reapply."
+    },
+    {
+      "Q": "Is travel insurance mandatory for a Morocco visa?",
+      "A": "Yes, travel insurance covering medical expenses is required for a Morocco visa."
+    },
+    {
+      "Q": "Can a visitor visa to Qatar be converted into a work visa?",
+      "A": "Yes, but the employer must handle the conversion process."
+    },
+    {
+      "Q": "Do Arab countries require passport validity beyond the travel period?",
+      "A": "Yes, most require passports to be valid for at least six months beyond the entry date."
+    },
+    {
+      "Q": "What documents do I need for a business visa in Algeria?",
+      "A": "A letter of invitation, proof of accommodation, passport, and business credentials are required."
+    },
+    {
+      "Q": "Can I enter Syria with an e-visa?",
+      "A": "No, Syria requires a visa obtained from an embassy before arrival."
+    },
+    {
+      "Q": "How can I check my visa status for the UAE?",
+      "A": "You can check your visa status online via the UAE’s GDRFA or ICA portals."
+    },
+    {
+      "Q": "Are group tourist visas available for Arab countries?",
+      "A": "Yes, some countries like Egypt and Jordan offer group tourist visas for tour operators."
+    },
+    {
+      "Q": "What is the process for obtaining a Saudi Arabia tourist visa?",
+      "A": "You can apply online via the e-visa portal or through a Saudi embassy."
+    },
+    {
+      "Q": "Which Arab countries have strict visa policies for unmarried couples?",
+      "A": "Saudi Arabia and Sudan have strict visa policies regarding unmarried couples traveling together."
+    },
+    {
+      "Q": "Can I apply for a visa at the Lebanese border?",
+      "A": "Yes, some nationalities can get a visa on arrival at the Beirut International Airport."
+    },
+    {
+      "Q": "Do minors traveling to the UAE need special visa documents?",
+      "A": "Yes, minors must have parental consent and may need a birth certificate."
+    },
+    {
+      "Q": "Can I apply for a Jordanian visa if I have an Israeli stamp on my passport?",
+      "A": "Yes, Jordan does not restrict entry based on Israeli stamps."
+    },
+    {
+      "Q": "Are visas free for GCC citizens visiting Arab countries?",
+      "A": "Yes, GCC citizens can travel visa-free within GCC countries and some Arab states."
+    },
+    {
+      "Q": "What are the conditions for a tourist visa in Tunisia?",
+      "A": "Tourists need proof of accommodation, return tickets, and sufficient funds."
+    },
+    {
+      "Q": "Can I enter multiple Arab countries with a single visa?",
+      "A": "No, visas are country-specific, except for GCC resident permits which allow regional travel."
+    },
+    {
+      "Q": "What happens if I overstay a visa in Morocco?",
+      "A": "You may face fines, deportation, or future entry bans."
+    },
+    {
+      "Q": "Can I renew a Lebanese tourist visa while in the country?",
+      "A": "Yes, you can extend your visa at the General Security office."
+    },
+    {
+      "Q": "Do I need a visa to enter Qatar if I have a Schengen visa?",
+      "A": "Yes, but Qatar allows visa-free entry for certain Schengen visa holders."
+    },
+    {
+      "Q": "What is the maximum stay on a Saudi e-visa?",
+      "A": "The e-visa allows stays of up to 90 days per visit."
+    },
+    {
+      "Q": "How long does it take to process a tourist visa for Algeria?",
+      "A": "Processing time varies, but it typically takes 10–15 business days."
+    },
+    {
+      "Q": "Can I enter Libya with a business visa?",
+      "A": "Yes, but business visas require a local sponsor."
+    },
+    {
+      "Q": "Are tourist visas for Sudan available online?",
+      "A": "No, Sudan does not offer e-visas; you must apply at an embassy."
+    },
+    {
+      "Q": "Do I need a visa for a short stay in Comoros?",
+      "A": "No, Comoros issues a visa on arrival to all nationalities."
+    },
+    {
+      "Q": "Which Arab countries require pre-clearance before issuing visas?",
+      "A": "Saudi Arabia and Libya require background checks for certain travelers."
+    },
+    {
+      "Q": "What is the visa policy for visiting Palestinian territories?",
+      "A": "Visitors enter through Israel, which controls entry points."
+    },
+    {
+      "Q": "Can I get a visa-on-arrival in Kuwait?",
+      "A": "Yes, certain nationalities can obtain a visa at the airport."
+    },
+    {
+      "Q": "What should I do if my visa is denied for an Arab country?",
+      "A": "You can appeal, reapply with better documentation, or contact the embassy for assistance."
+    },
+
+    {
+      "Q": "Can I enter the UAE if my passport has an Israeli stamp?",
+      "A": "Yes, the UAE no longer restricts entry based on Israeli stamps in passports."
+    },
+    {
+      "Q": "Which Arab countries require a yellow fever vaccination for visa approval?",
+      "A": "Sudan, Mauritania, and Djibouti require a yellow fever vaccination if arriving from affected areas."
+    },
+    {
+      "Q": "Do I need a visa to enter Morocco if I hold a US passport?",
+      "A": "No, US passport holders can enter Morocco visa-free for up to 90 days."
+    },
+    {
+      "Q": "What is the processing time for a Saudi Arabia business visa?",
+      "A": "Processing typically takes 3–7 business days, depending on the consulate."
+    },
+    {
+      "Q": "Can I enter Lebanon with an emergency travel document?",
+      "A": "Yes, but you must confirm with the Lebanese embassy before traveling."
+    },
+    {
+      "Q": "Are visa fees refundable if my application is rejected?",
+      "A": "No, visa fees are non-refundable in most Arab countries."
+    },
+    {
+      "Q": "What is the maximum duration of a tourist visa in Kuwait?",
+      "A": "Tourist visas allow a stay of up to 90 days."
+    },
+    {
+      "Q": "Can I travel to Jordan with a Schengen visa?",
+      "A": "No, a Schengen visa does not grant entry to Jordan."
+    },
+    {
+      "Q": "Which Arab countries allow visa-free entry for Turkish passport holders?",
+      "A": "Lebanon, Tunisia, and Morocco allow Turkish passport holders visa-free entry."
+    },
+    {
+      "Q": "Do I need a visa to visit the UAE if I have a US Green Card?",
+      "A": "Yes, but Green Card holders may be eligible for a visa-on-arrival."
+    },
+    {
+      "Q": "What is the process for obtaining an Egyptian visa-on-arrival?",
+      "A": "Eligible travelers can pay the visa fee at immigration counters upon arrival."
+    },
+    {
+      "Q": "Is there a visa waiver for business travelers in the Arab world?",
+      "A": "Some countries offer business visas on arrival, but most require pre-approval."
+    },
+    {
+      "Q": "Can I extend my Jordanian tourist visa while in the country?",
+      "A": "Yes, you can apply for an extension at a local police station."
+    },
+    {
+      "Q": "What is the visa policy for dual nationals in Saudi Arabia?",
+      "A": "Travelers must enter and exit using the same nationality."
+    },
+    {
+      "Q": "Can I get a visa-on-arrival in Tunisia?",
+      "A": "No, most travelers need to apply for a visa before arrival."
+    },
+    {
+      "Q": "Are visa exemptions available for elderly travelers in any Arab country?",
+      "A": "No, all travelers must meet visa requirements regardless of age."
+    },
+    {
+      "Q": "What is the validity of a multiple-entry visa for the UAE?",
+      "A": "Multiple-entry tourist visas can be valid for 5 years, with stays of up to 90 days per visit."
+    },
+    {
+      "Q": "Can I travel to Bahrain with a Qatar residency permit?",
+      "A": "Yes, Qatar residents can apply for an e-visa or get a visa on arrival in Bahrain."
+    },
+    {
+      "Q": "Is an Israeli visa stamp a problem for entry into Algeria?",
+      "A": "Yes, travelers with Israeli stamps may be denied entry."
+    },
+    {
+      "Q": "What is the maximum number of days I can stay in Libya with a tourist visa?",
+      "A": "Libya generally grants tourist visas for up to 30 days."
+    },
+    {
+      "Q": "Can I enter Egypt if my passport is valid for less than 6 months?",
+      "A": "No, Egypt requires at least six months of passport validity."
+    },
+    {
+      "Q": "Do I need a visa to enter Sudan if I have a GCC residency?",
+      "A": "Yes, Sudan does not grant visa exemptions for GCC residents."
+    },
+    {
+      "Q": "Can I apply for a Syrian visa online?",
+      "A": "No, Syrian visas must be obtained through an embassy."
+    },
+    {
+      "Q": "Are there any Arab countries where visa fees are waived for students?",
+      "A": "Some countries, like Egypt, offer reduced fees for students."
+    },
+    {
+      "Q": "Do I need to show proof of funds for a visa application in Oman?",
+      "A": "Yes, you may be asked to show proof of sufficient funds."
+    },
+    {
+      "Q": "What should I do if I lose my passport while on a visa in an Arab country?",
+      "A": "Report the loss to the police and your embassy to get a temporary travel document."
+    },
+    {
+      "Q": "Is a transit visa required for layovers in Saudi Arabia?",
+      "A": "A transit visa is required for layovers longer than 12 hours."
+    },
+    {
+      "Q": "Can I work in an Arab country with a student visa?",
+      "A": "No, a work permit is required for employment."
+    },
+    {
+      "Q": "Are diplomatic passport holders exempt from visa requirements?",
+      "A": "Many Arab countries offer visa exemptions for diplomatic passport holders."
+    },
+    {
+      "Q": "Can I travel to Algeria with a French Schengen visa?",
+      "A": "No, Algeria requires its own visa."
+    },
+    {
+      "Q": "What documents are required for a Lebanese business visa?",
+      "A": "You need an invitation letter, proof of accommodation, and a valid passport."
+    },
+    {
+      "Q": "Are visa extensions possible in Mauritania?",
+      "A": "Yes, extensions can be requested at immigration offices."
+    },
+    {
+      "Q": "What is the age requirement for a UAE tourist visa?",
+      "A": "There is no specific age requirement, but minors must have a guardian."
+    },
+    {
+      "Q": "Do I need an invitation letter for a Jordanian tourist visa?",
+      "A": "No, but proof of accommodation and return tickets are required."
+    },
+    {
+      "Q": "Which Arab countries have visa-free agreements with Japan?",
+      "A": "Japan passport holders can enter the UAE, Morocco, and Tunisia visa-free."
+    },
+    {
+      "Q": "Can I enter Oman by land with a UAE tourist visa?",
+      "A": "No, Oman requires its own visa."
+    },
+    {
+      "Q": "What happens if I enter an Arab country with an expired visa?",
+      "A": "You may face fines, deportation, or entry bans."
+    },
+    {
+      "Q": "Can I travel to Yemen without a visa?",
+      "A": "No, a visa is required before arrival."
+    },
+    {
+      "Q": "Do Arab countries require biometric data for visas?",
+      "A": "Yes, many countries like Saudi Arabia and the UAE require biometrics."
+    },
+    {
+      "Q": "What is the visa process for Indian passport holders visiting Egypt?",
+      "A": "Indians need to apply for a visa at an Egyptian consulate before travel."
+    },
+    {
+      "Q": "Are multiple-entry visas available for Tunisia?",
+      "A": "Yes, but they are mainly for business travelers."
+    },
+    {
+      "Q": "Can I apply for a Qatari visa if I have a criminal record?",
+      "A": "Your application may be rejected based on background checks."
+    },
+    {
+      "Q": "What is the maximum duration for a Saudi Arabia business visa?",
+      "A": "Business visas can be valid for up to 1 year with multiple entries."
+    },
+    {
+      "Q": "Do I need a visa to enter Comoros?",
+      "A": "No, visas are issued on arrival for all travelers."
+    },
+    {
+      "Q": "Is there a visa fee for religious pilgrimages in the Arab world?",
+      "A": "Saudi Arabia charges visa fees for Umrah and Hajj, except for first-time pilgrims."
+    },
+    {
+      "Q": "Can I apply for an eVisa for Bahrain?",
+      "A": "Yes, Bahrain offers eVisas for eligible nationalities through its official website."
+    },
+    {
+      "Q": "What is the minimum passport validity required for entering Qatar?",
+      "A": "Your passport must be valid for at least 6 months beyond your arrival date."
+    },
+    {
+      "Q": "Do transit passengers need a visa for layovers in Kuwait?",
+      "A": "A transit visa is required if staying longer than 24 hours."
+    },
+    {
+      "Q": "What happens if I overstay my visa in Morocco?",
+      "A": "You may face fines, deportation, or difficulties with future entry."
+    },
+    {
+      "Q": "Can I travel to Algeria with a visa-on-arrival?",
+      "A": "No, Algeria does not offer visas on arrival. You must obtain a visa in advance."
+    },
+    {
+      "Q": "Is a return ticket required for a Jordanian visa?",
+      "A": "Yes, you may be asked to show a return or onward ticket."
+    },
+    {
+      "Q": "Which Arab countries allow visa-free entry for EU passport holders?",
+      "A": "Morocco, Tunisia, Lebanon, and the UAE allow visa-free entry for most EU passports."
+    },
+    {
+      "Q": "Do I need to register with local authorities upon arrival in Sudan?",
+      "A": "Yes, all visitors must register within three days of arrival."
+    },
+    {
+      "Q": "What is the visa policy for digital nomads in the UAE?",
+      "A": "The UAE offers a one-year remote work visa for digital nomads."
+    },
+    {
+      "Q": "Can I enter Tunisia with an expired Schengen visa?",
+      "A": "No, your Schengen visa must be valid at the time of entry."
+    },
+    {
+      "Q": "Are there any Arab countries that allow visa-free entry for Latin American travelers?",
+      "A": "Yes, Morocco, Tunisia, and the UAE allow visa-free entry for certain Latin American passports."
+    },
+    {
+      "Q": "How long does it take to process a business visa for Oman?",
+      "A": "Processing time is usually between 3–10 business days."
+    },
+    {
+      "Q": "Can I enter Saudi Arabia with a tourist visa for Umrah?",
+      "A": "Yes, Umrah is now allowed on a tourist visa, except during Hajj season."
+    },
+    {
+      "Q": "Do Arab countries require exit visas?",
+      "A": "Some countries, like Saudi Arabia and Qatar, require exit permits for residents, but not tourists."
+    },
+    {
+      "Q": "Can I apply for an eVisa to visit Djibouti?",
+      "A": "Yes, Djibouti offers eVisas for travelers from most countries."
+    },
+    {
+      "Q": "Are visa extensions available for visitors in Libya?",
+      "A": "Yes, but you must apply at the immigration office before your visa expires."
+    },
+    {
+      "Q": "Do Arab countries issue visas on arrival for African nationals?",
+      "A": "Visa policies vary; Morocco and Tunisia allow visa-free entry for some African nationals."
+    },
+    {
+      "Q": "What happens if I enter an Arab country on a tourist visa but intend to work?",
+      "A": "This is illegal in most Arab countries and can result in fines, deportation, or a ban."
+    },
+    {
+      "Q": "Are medical checkups required for long-term visas in the Arab world?",
+      "A": "Yes, countries like the UAE and Saudi Arabia require medical tests for residency visas."
+    },
+    {
+      "Q": "Can I apply for a Lebanese visa at the border?",
+      "A": "Some nationalities can obtain a visa on arrival, but others must apply in advance."
+    },
+    {
+      "Q": "Which Arab countries require a visa for US Green Card holders?",
+      "A": "Most countries, except the UAE (visa-on-arrival), require a visa for US Green Card holders."
+    },
+    {
+      "Q": "Are Israeli passport holders allowed entry into any Arab countries?",
+      "A": "Israeli passport holders can now visit the UAE, Bahrain, and Morocco."
+    },
+    {
+      "Q": "What are the visa requirements for visiting Mauritania?",
+      "A": "Most travelers can obtain a visa on arrival at the airport."
+    },
+    {
+      "Q": "Can I apply for a long-term tourist visa in Egypt?",
+      "A": "Yes, Egypt offers long-term visas, but they must be arranged through the immigration office."
+    },
+    {
+      "Q": "Is proof of hotel booking required for a Saudi tourist visa?",
+      "A": "Yes, proof of accommodation is required during the visa application process."
+    },
+    {
+      "Q": "Can I extend my visa while in Tunisia?",
+      "A": "Yes, but you must apply at the immigration office before your visa expires."
+    },
+    {
+      "Q": "What is the processing time for a UAE golden visa?",
+      "A": "Processing typically takes 30–60 days."
+    },
+    {
+      "Q": "Do I need a visa for transit through Morocco?",
+      "A": "If staying in the airport transit area for less than 24 hours, a visa is not required."
+    },
+    {
+      "Q": "Are there any Arab countries with visa-free entry for Indian passport holders?",
+      "A": "Comoros and Jordan offer visa-on-arrival for Indian passport holders."
+    },
+    {
+      "Q": "Can I travel to Qatar without a visa if I have a GCC residency?",
+      "A": "Yes, GCC residents can get a visa on arrival."
+    },
+    {
+      "Q": "How long does a multiple-entry visa for Lebanon last?",
+      "A": "Multiple-entry visas can be valid for 6 months to 1 year."
+    },
+    {
+      "Q": "Is a visa required for EU citizens to visit Saudi Arabia?",
+      "A": "Yes, but EU citizens can apply for a Saudi eVisa online."
+    },
+    {
+      "Q": "Can I use a tourist visa for business meetings in the UAE?",
+      "A": "No, you need a business visa for official meetings."
+    },
+    {
+      "Q": "What is the maximum duration of a business visa in Sudan?",
+      "A": "Business visas are usually issued for up to 6 months."
+    },
+    {
+      "Q": "Do I need an invitation letter for a Moroccan tourist visa?",
+      "A": "No, but proof of accommodation is required."
+    },
+    {
+      "Q": "Can I work remotely on a tourist visa in an Arab country?",
+      "A": "No, a remote work visa is required for long-term stays."
+    },
+    {
+      "Q": "Are there any penalties for overstaying a visa in the UAE?",
+      "A": "Yes, overstaying results in daily fines and possible deportation."
+    },
+    {
+      "Q": "Do Arab embassies issue visas for multiple countries?",
+      "A": "No, each country has its own visa process."
+    },
+    {
+      "Q": "Can I visit Palestine with a Jordanian visa?",
+      "A": "No, you need an Israeli visa to enter the Palestinian territories."
+    },
+    {
+      "Q": "Are there any visa exemptions for medical patients?",
+      "A": "Some Arab countries offer medical visas for treatment purposes."
+    },
+    {
+      "Q": "Can I travel to Iraq without a visa?",
+      "A": "No, except for some Arab nationals who can obtain visas on arrival."
+    },
+    {
+      "Q": "Is a visa required for Saudi Arabian citizens to enter other Gulf countries?",
+      "A": "No, Saudi citizens can travel visa-free within the GCC."
+    },
+    {
+      "Q": "Do Arab countries offer group tourist visas?",
+      "A": "Yes, countries like Saudi Arabia offer group visas for organized tours."
+    },
+    {
+      "Q": "What is the duration of an emergency visa in Egypt?",
+      "A": "Emergency visas are usually valid for 30 days."
+    },
+    {
+      "Q": "Can I enter the UAE on a visit visa and then apply for a work permit?",
+      "A": "Yes, but you must change your visa status before starting work."
+    }     
+    
+         
+    
+          
+    
+    
+  ]
+  
+  
 }
+
+
       
     
 
