@@ -1,0 +1,944 @@
+[
+  {
+    "question": "I'm a woman traveling alone to Morocco, is it safe?",
+    "retrieved_context": "Morocco is generally safe for solo travelers, but it's important to be cautious in crowded areas and respect local customs.",
+    "generated_response": "Morocco is generally considered safe for solo female travelers. However, it's crucial to remain vigilant in crowded areas and be mindful of local customs and norms. Taking standard precautions, such as being aware of your surroundings, keeping your belongings secure, and avoiding isolated places at night, will help ensure a positive and safe experience.\n\n**Conclusion:** While Morocco is welcoming to solo. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is long"
+  },
+  {
+    "question": "Is hugging people okay in Tunisia?",
+    "retrieved_context": "Public displays of affection, such as kissing or holding hands, should be avoided, especially in more conservative areas.",
+    "generated_response": "Hugging people in Tunisia is generally acceptable among friends and family, but it's important to be mindful of cultural norms, especially in more conservative areas. While public displays of affection, like kissing or holding hands, are frowned upon, hugging is typically seen as a sign of affection within a close circle. However, it's always best to gauge the comfort level of those you're with and avoid h. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is long and the response is cut off"
+  },
+  {
+    "question": "Do I need to take my shoes off in Jordanian homes?",
+    "retrieved_context": "Yes, it's common to remove your shoes before entering an Arab home. Follow the lead of your host or look for a shoe rack near the entrance.",
+    "generated_response": "Yes, it is customary to remove your shoes before entering a Jordanian home. This is a common practice in Arab households and shows respect to your hosts. Follow their lead or look for a shoe rack near the entrance as a visual cue.\n\n**Conclusion:** You should take your shoes off when entering a Jordanian home to follow local customs and. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5",
+    "note": "the response is long and conclusion is added"
+  },
+  {
+    "question": "Am I allowed to wear sleeveless in a religious place in the UAE?",
+    "retrieved_context": "It is generally discouraged in conservative areas, but in private spaces and some urban areas, it may be more accepted.",
+    "generated_response": "Wearing sleeveless clothing in a religious place in the UAE is **generally discouraged**, especially in conservative areas. While it might be more accepted in private spaces or certain urban areas, it's best to exercise caution and dress modestly out of respect for local customs and traditions. Always check specific guidelines or ask local authorities if you're unsure.\n\n**. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What's the right thing to wear at a mosque in Dubai?",
+    "retrieved_context": "Women should cover their hair, arms, and legs, while men should wear long pants and avoid sleeveless tops.",
+    "generated_response": "To conform with local customs and religious guidelines when visiting a mosque in Dubai, both men and women should wear modest attire. For women, this means covering their hair, arms, and legs. For men, it involves wearing long pants and avoiding sleeveless tops. It's important to respect these customs to ensure a respectful and comfortable experience for everyone.\n\n**Conclusion. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Where can I find halal food in Lebanon, and is tipping expected?",
+    "retrieved_context": "Yes, halal food is widely available. Most restaurants serve halal meals, and street food options are abundant.",
+    "generated_response": "Halal food is readily accessible in Lebanon, with most restaurants offering halal meals. Street food vendors also commonly serve halal options. Regarding tipping, it is customary in Lebanon to tip waiters and waitresses, but there is no set percentage. Tipping is usually based on the quality of service and your personal satisfaction with the meal. It is appreciated when you. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Are there any customs around photography in Egypt?",
+    "retrieved_context": "Avoid photographing military sites and always ask permission before taking pictures of people.",
+    "generated_response": "Yes, there are customs and guidelines around photography in Egypt. It's important to avoid photographing military sites and always ask permission before taking pictures of people. **Respecting local customs and privacy is key when capturing images in Egypt.**. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4"
+  },
+  {
+    "question": "Is it common to share meals with strangers in Jordan?",
+    "retrieved_context": "Yes, in some cultures, food is shared from communal dishes, and eating with the right hand is customary.",
+    "generated_response": "While Jordan does have a culture of communal eating, sharing meals with strangers is **not typically common**. Meals are often shared within families and close social circles.\n\nWhile hospitality is highly valued in Jordan, meal invitations are usually extended to people already known to the host.\n\n**Conclusion:** Sharing meals with strangers in Jordan is not a widespread practice. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "2"
+  },
+  {
+    "question": "Can I drink alcohol in Tunisia as a tourist?",
+    "retrieved_context": "Yes, alcohol is available in licensed venues like bars and restaurants, but public drunkenness is frowned upon.",
+    "generated_response": "Yes, alcohol is available in licensed venues like bars and restaurants in Tunisia for tourists. However, public drunkenness is not tolerated and is considered inappropriate. It's important to consume alcohol responsibly while visiting the country.\n\n**Conclusion:** You can drink alcohol in Tunisia as a tourist, but do so responsibly and in licensed establishments. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4"
+  },
+  {
+    "question": "what should a tourist know or do when visiting mosques in arab countries?",
+    "retrieved_context": "Social gatherings are often family-oriented, and visitors should be respectful of the close-knit nature of the culture.",
+    "generated_response": "When visiting mosques in Arab countries, tourists should be mindful of the cultural norms and practices. Here are a few key points:\n\n- **Dress Code:** Dress modestly, covering shoulders and knees. Avoid wearing revealing clothing or items that could be considered disrespectful.\n\n- **Respect for Prayer Times:** Be considerate of local prayer times and avoid entering the mosque. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What are common mistakes tourists make regarding dining & eating etiquette in arab culture?",
+    "retrieved_context": "Wash hands before eating, accept food with the right hand, and wait for the host to start the meal.",
+    "generated_response": "Tourists often make several common mistakes regarding dining and eating etiquette in Arab culture. One significant oversight is neglecting to wash hands before eating, which is considered a fundamental practice in Arab households. Additionally, it is customary to accept food with the right hand, symbolizing respect and cleanliness. \n\nAnother mistake tourists might make is rushing to start eating as soon as the host serves the. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "What are the traditions in rural Arab areas?",
+    "retrieved_context": "Yes, many rural areas host cultural festivals celebrating music, dance, and traditional events.",
+    "generated_response": "Rural Arab areas celebrate a variety of traditions, many of which revolve around music, dance, and cultural events. These festivals are vibrant expressions of local heritage and community spirit.\n\n**Conclusion:**  Rural Arab traditions encompass musical and dance performances, alongside cultural festivals that showcase the region's rich history and customs. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "where to go in Egypt if i want spiritual retreat?",
+    "retrieved_context": "The Al-Azhar Mosque in Cairo and the St. Catherine's Monastery in Sinai are significant spiritual retreats in Egypt.",
+    "generated_response": "If you're seeking a spiritual retreat in Egypt, consider visiting **The Al-Azhar Mosque in Cairo or St. Catherine's Monastery in Sinai**. Both are renowned for their profound spiritual significance and stunning architecture.\n\n        Conclusion: These two sites offer a unique blend of historical and religious importance, making them ideal destinations for those seeking a spiritual retreat in Egypt. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4"
+  },
+  {
+    "question": "Recommend a good restaurant in Egypt",
+    "retrieved_context": "Yes! Tajawul’s Explore section offers curated lists of top restaurants, complete with reviews, ratings, and local favorites.",
+    "generated_response": "Tajawul’s Explore section recommends several highly-rated restaurants in Egypt. For a curated list of top picks, including local favorites and user reviews, explore the \"Explore\" section. \n\n**Conclusion:**  Refer to Tajawul’s Explore section for recommended restaurants in Egypt. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "1"
+  },
+  {
+    "question": "Tell me about Ramadan in Arab countries",
+    "retrieved_context": "During Ramadan, Muslims fast from dawn to dusk. Non-Muslims should avoid eating, drinking, or smoking in public during daylight hours.",
+    "generated_response": "Ramadan in Arab Countries\n\nRamadan is a significant holy month in Arab countries, where Muslims observe a fast from dawn to dusk. This period of abstinence is known as sawm. It is considered one of the five pillars of Islam. During Ramadan, non-Muslims are expected to show respect by abstaining from eating, drinking, or smoking in public during daylight hours. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Do people usually greet each other with a hug or a cheek kiss in Arab countries?",
+    "retrieved_context": "They greet verbally but may avoid physical contact unless they are family members.",
+    "generated_response": "In Arab countries, greetings tend to be verbal, with a simple \"Salam\" (peace) or \"Marhaba\" (hello) being common. Physical contact, such as hugs or cheek kisses, is generally avoided unless the greeters are family members. This cultural norm reflects a emphasis on personal space and modesty.\n\n**Conclusion:** People in Arab countries typically greet each other verbally rather. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What are the main Islamic holidays celebrated in Arab countries?",
+    "retrieved_context": "The end of the Islamic year is observed quietly, often with prayers and family gatherings.",
+    "generated_response": "The primary Islamic holiday celebrated in Arab countries is **Eid al-Fitr**, which marks the end of Ramadan, the holy month of fasting. This holiday is often celebrated with prayers, family gatherings, and feasts. Another significant observance is **Eid al-Adha**, a festival of sacrifice that commemorates Prophet Abraham's willingness to sacrifice his son for God. It involves special prayers, community feasts,. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "Can tourists take part in Eid celebrations while visiting Muslim-majority countries?",
+    "retrieved_context": "Yes, many locals invite non-Muslims to share meals and celebrations during Eid.",
+    "generated_response": "Tourists can absolutely participate in Eid celebrations in Muslim-majority countries. Many locals extend invitations to non-Muslims to share meals and celebrate during Eid, demonstrating the inclusive nature of these festivities. \n\n**Conclusion:** Eid celebrations offer tourists a unique opportunity to immerse themselves in local culture and traditions, fostering cross-cultural understanding and connection. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4"
+  },
+  {
+    "question": "Do tourists need to tip in restaurants and taxis in Arab cities?",
+    "retrieved_context": "Yes, tipping (baksheesh) is common in restaurants, hotels, and taxis, but it is optional.",
+    "generated_response": "Tourists are generally expected to tip in restaurants and taxis in Arab cities, although it is considered optional. Tipping is a way to show appreciation for good service and is customary in many cultures, including those in the Arab world. The amount of the tip can vary based on personal preference and the quality of service received. It's always a good idea for tourists to be. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Which Arab countries are renowned for horse racing?",
+    "retrieved_context": "The UAE, Saudi Arabia, Qatar, Egypt, and Oman are well-known for horse racing.",
+    "generated_response": "The Arab countries renowned for horse racing include the United Arab Emirates (UAE), Saudi Arabia, Qatar, Egypt, and Oman. \n**Conclusion:** These nations have a strong tradition and culture around horse racing. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What are the main characteristics of traditional Arab sports?",
+    "retrieved_context": "They require skill, patience, and are deeply rooted in history.",
+    "generated_response": "Traditional Arab sports are characterized by **skill, patience, and a deep historical root**. These activities often involve endurance, agility, and strategic thinking, reflecting the cultural values of the Arab world. \n\n**Conclusion:** \nTraditional Arab sports are not just physical activities; they are cultural expressions that have evolved over centuries. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is Arabic calligraphy?",
+    "retrieved_context": "It is an artistic writing style used in Islamic texts and decorations.",
+    "generated_response": "Arabic calligraphy is a **creative and artistic writing style** used in both Islamic texts and decorative art.  It involves the elegant arrangement of Arabic letters, often incorporating intricate patterns and floral motifs.\n        \n**Conclusion:** Arabic calligraphy is not just a means of writing, but a beautiful art form that combines aesthetics and cultural significance.  \n<|im_end|>. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "How does Arabic art reflect culture?",
+    "retrieved_context": "It preserves heritage, represents beliefs, and tells cultural stories.",
+    "generated_response": "Arabic art **reflects and preserves cultural heritage, represents diverse beliefs, and tells cultural stories**. This art form is deeply rooted in the rich history and traditions of the Arab world, showcasing a fusion of ancient and modern influences. Through various mediums, from calligraphy and geometric patterns to intricate wood carvings and vibrant textiles, Arabic art communicates complex narratives and values, offering a window into the region's past and present.\n\n**Conclusion:** Arabic art serves as a vibrant. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "4"
+  },
+  {
+    "question": "What did the pharaohs in Egypt do?",
+    "retrieved_context": "The Temple of Hibis in Kharga Oasis is a remarkably well-preserved temple dedicated to Amun, featuring rare Persian-era carvings and hieroglyphs.",
+    "generated_response": "Pharaohs in ancient Egypt held a wide range of responsibilities, including:\n\n* **Political and military leadership:** They were the supreme rulers, responsible for maintaining stability and security within the kingdom.\n* **Religious authority:**  Pharaohs were considered living gods, intermediaries between the gods and the people. They performed rituals and offerings to ensure the continued. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "2"
+  },
+  {
+    "question": "How do Arabic poets incorporate imagery into their work?",
+    "retrieved_context": "Poets use rich, vivid imagery to evoke emotions, paint landscapes, and bring abstract concepts to life.",
+    "generated_response": "Arabic poets, like their counterparts across cultures, use **rich, vivid imagery** to enhance their poetry. They paint **lush landscapes**, evoke **powerful emotions**, and bring **abstract concepts to life** through carefully chosen words and metaphors. This tradition of using imagery in Arabic literature dates back centuries, reflecting the cultural and natural richness of the Arab world.\n\n**Conclusion:** Arabic poets incorporate imagery into. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "5"
+  },
+  {
+    "question": "In what ways does Arabic poetry differ from Western poetry?",
+    "retrieved_context": "Arabic poetry places a greater emphasis on rhythm, sound, and oral performance, while Western poetry often focuses on structure and form.",
+    "generated_response": "Arabic poetry differs from Western poetry primarily in its emphasis:\n\n* **Rhythm, sound, and oral performance** are paramount in Arabic poetry, often leading to more fluid, musical forms.\n* **Structure and form** are more valued in Western poetry, with a focus on strict meters, stanzas, and rhyme schemes. \n\n\n**Conclusion:**  While both forms. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What makes hospitality significant in Arab culture?",
+    "retrieved_context": "Hospitality is a cornerstone of Arab culture. Guests are treated with great respect and generosity. Always express gratitude when offered hospitality.",
+    "generated_response": "Hospitality holds significant value in Arab culture, rooted in the fundamental principle of treating guests with great respect and generosity. This cultural norm fosters a sense of warmth and welcome, emphasizing the importance of kindness and generosity towards visitors. Expressing gratitude when offered hospitality is crucial, demonstrating appreciation for the gesture and reinforcing the bond between hosts and guests.\n\n**Conclusion:**  In Arab culture, hospitality is. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What is the role of the 'Majlis' in Arab culture?",
+    "retrieved_context": "A gathering place where people socialize and discuss important matters.",
+    "generated_response": "The Majlis, a traditional gathering place in Arab culture, serves multiple roles:\n\n* **Socialization:** It's a space for people from the community to come together, share stories, exchange news, and build social connections.\n* **Discussing Important Matters:** Beyond casual conversation, the Majlis is often where serious discussions on topics like politics, religion, and community issues take place. \n* **Preserving. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "Why is food considered a central element in Arab hospitality?",
+    "retrieved_context": "It symbolizes generosity and ensures guests feel valued.",
+    "generated_response": "Food is considered a central element in Arab hospitality because it symbolizes generosity and ensures guests feel valued. This tradition goes beyond simply providing sustenance; it's a way to demonstrate warmth, respect, and hospitality. By sharing a meal, Arab hosts create an environment of comfort and camaraderie, fostering deeper connections and fostering a sense of community.\n        \n        **Conclusion:** Thus, food serves as a powerful tool in Arab hospitality, strengthening social bonds and making guests feel welcome. This should give you a clearer understanding of the reasoning behind it. Feel free to ask if you have more questions.",
+    "score": ""
+  },
+  {
+    "question": "Can you tell me more about yourself and how you can assist me?",
+    "retrieved_context": "For users seeking a more personalized approach to their travel planning, direct them to their **Personalized Dashboard** on Tajawul. This dashboard provides an overview of their travel preferences, including saved destinations, past trips, recommendations, and insights into future travel. Users can easily access all their trip information in one place, and the dashboard adapts to their activity on the platform, suggesting new places to visit and connecting them with relevant content based on their previous interactions.",
+    "generated_response": "I am a sophisticated AI-. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": ""
+  },
+  {
+    "question": "What is your name?",
+    "retrieved_context": "ولد (walad) – 'Boy'",
+    "generated_response": "As an AI, I do not have a personal name. However, you can refer to me as \"Assistant\" or by any other title of your choice. My purpose is to assist and provide information to users like yourself.\n\n**Conclusion:** I am designed to serve as a helpful and knowledgeable companion, ready to answer your queries without a personal identity. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "1"
+  },
+  {
+    "question": "What topics should I avoid discussing in Egypt?",
+    "retrieved_context": "Avoid sensitive topics like politics, religion, and personal finances.",
+    "generated_response": "In Egypt, it's generally advisable to **avoid discussing sensitive topics such as politics, religion, and personal finances in casual conversations**. These subjects can be contentious and may lead to disagreements or misunderstandings. \n\n**Conclusion:**  Focus on lighter topics like travel, culture, food, and hobbies to foster positive interactions with locals in Egypt. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What are some common traditional dishes in Egypt?",
+    "retrieved_context": "Koshari, a mix of pasta, rice, lentils, and tomato sauce, is a popular street food.",
+    "generated_response": "Beyond Koshari, Egypt boasts a rich culinary tradition with diverse regional specialties. Some common traditional dishes include:\n\n* **Ful Medames:** A hearty stew made from fava beans, garlic, onions, and spices, often served with bread.\n* **Ta'ameya (Egyptian Falafel):** Made from chickpeas or fava beans, these crispy fritters are a popular street. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "How do Egyptians celebrate weddings?",
+    "retrieved_context": "With large gatherings, traditional music, dancing, and elaborate feasts.",
+    "generated_response": "Egyptian weddings are vibrant celebrations characterized by traditional music, dancing, and elaborate feasts. These events often involve large gatherings, with family and friends joining in the festivities. The conclusion is that Egyptian weddings are social affairs, rich in cultural expression and community involvement. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "4"
+  },
+  {
+    "question": "What is the significance of the pyramids?",
+    "retrieved_context": "They are ancient tombs built for pharaohs, symbolizing power and the afterlife.",
+    "generated_response": "The pyramids hold immense cultural and historical significance, primarily as symbols of **ancient Egyptian civilization's power and the pharaohs' divine status**. They represent a remarkable architectural feat and were designed to serve as tombs for pharaohs, ensuring their prosperity in the afterlife. The Great Pyramid at Giza, for example, is one of the Seven Wonders of the Ancient World and a testament to the advanced engineering and mathematical knowledge of the time.\n\n**. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "How should tourists dress in Saudi Arabia?",
+    "retrieved_context": "Men should avoid shorts, and women should wear an abaya. Modest clothing is expected.",
+    "generated_response": "Tourists in Saudi Arabia are expected to adhere to modest dressing standards, regardless of gender. While there are no specific rules for men, women are advised to wear an abaya, a long, flowing robe. Avoid wearing shorts, as they are generally not considered appropriate attire in this country. \n\n**Conclusion:**  Tourists should opt for conservative, modest clothing, including an abaya for women and avoid shorts, to. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "5"
+  },
+  {
+    "question": "Is alcohol allowed for tourists in Saudi Arabia?",
+    "retrieved_context": "No, alcohol is strictly prohibited in Saudi Arabia, and there are severe penalties for possession or consumption.",
+    "generated_response": "No, alcohol is strictly prohibited in Saudi Arabia, and this restriction applies to tourists as well. There are severe penalties for possession or consumption of alcohol, including fines and imprisonment. \n\n**Conclusion:** Alcohol is not permitted for tourists in Saudi Arabia. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What is the most popular tourist destination in Saudi Arabia?",
+    "retrieved_context": "Mecca, the holiest city in Islam, attracts millions of Muslim visitors annually for Hajj. Other popular sites include Riyadh, Jeddah, and the Red Sea coastline.",
+    "generated_response": "The most popular tourist destination in Saudi Arabia is Mecca, due to its significance in Islam and the annual Hajj pilgrimage that draws millions of visitors. While other destinations like Riyadh, Jeddah, and the Red Sea coastline are also popular, Mecca holds the top spot in terms of tourist attraction.\n\n**Conclusion:** Mecca is the most popular tourist. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "What is the currency used in the UAE?",
+    "retrieved_context": "The currency of the UAE is the UAE Dirham (AED).",
+    "generated_response": "The currency used in the United Arab Emirates is the UAE Dirham (AED). I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What are some of the top hotels in the UAE?",
+    "retrieved_context": "Top hotels include the Burj Al Arab, Atlantis The Palm, and the Ritz-Carlton, among many luxury resorts.",
+    "generated_response": "Some of the top hotels in the United Arab Emirates (UAE) include:\n\n* **Burj Al Arab:**  A renowned 7-star hotel known for its unique sail-shaped design.\n* **Atlantis The Palm:** Located on Palm Jumeirah, this resort features water parks, marine habitats, and luxurious accommodations.\n* **Ritz-Carlton:**. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "What is the national dish of Bahrain?",
+    "retrieved_context": "Machboos, a spiced rice dish usually served with chicken or fish.",
+    "generated_response": "The national dish of Bahrain is **Machboos**, a spiced rice dish typically served with chicken or fish. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is Bahrain famous for?",
+    "retrieved_context": "Its rich pearl diving history, Formula 1 Grand Prix, and modern skyline.",
+    "generated_response": "Bahrain is renowned for its **rich pearl diving history, Formula 1 Grand Prix events, and modern skyline**.\n\n**Conclusion:**  Bahrain's fame stems from a blend of its historical significance in pearl diving, its hosting of prestigious Formula 1 races, and its impressive contemporary architecture. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Is it acceptable to take photographs in Morocco?",
+    "retrieved_context": "Taking photographs is generally allowed, but always ask for permission before photographing people, especially women.",
+    "generated_response": "Yes, taking photographs is generally acceptable in Morocco. However, it is important to be mindful of cultural norms and respect people's privacy. Always ask for permission before photographing individuals, especially women, to ensure cultural sensitivity and avoid potential offense.\n\n**Conclusion:** While photography is permitted in Morocco, it is crucial to be respectful of local customs and seek consent when photographing people. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Can I visit the Atlas Mountains in Morocco?",
+    "retrieved_context": "Yes, the Atlas Mountains are a popular destination for trekking, offering stunning views and Berber villages.",
+    "generated_response": "Yes, you can visit the Atlas Mountains in Morocco. They are renowned for their picturesque landscapes and offer a range of trekking opportunities, allowing visitors to explore Berber villages and enjoy breathtaking views.\n\n**Conclusion:** The Atlas Mountains in Morocco are a viable travel destination for those seeking outdoor adventures and cultural experiences. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4"
+  },
+  {
+    "question": "What are some major cities to visit in Morocco?",
+    "retrieved_context": "Major cities to visit include Marrakech, Fes, Casablanca, and Rabat, each offering unique cultural experiences.",
+    "generated_response": "Morocco boasts several captivating major cities, each with its own distinctive cultural charm. Notable destinations include Marrakech, Fes, Casablanca, and Rabat. These cities promise unique and enriching experiences for visitors.\n\n**Conclusion:** These four cities offer a diverse range of cultural, historical, and modern-day attractions, making them prime destinations for tourists exploring Morocco. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is the most popular sport in Lebanon?",
+    "retrieved_context": "Football and basketball are the most popular sports in Lebanon.",
+    "generated_response": "The most popular sports in Lebanon are football and basketball. \n\n**Conclusion:**  While the context mentions both sports as the most popular, football seems to hold a slight edge based on the provided information.  This is likely due to its global appeal and long-standing history in the country. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What are Lebanese weddings like?",
+    "retrieved_context": "Lebanese weddings are grand celebrations with music, dancing, and extravagant feasts.",
+    "generated_response": "Lebanese weddings are renowned for their grandeur, characterized by vibrant music, energetic dancing, and lavish feasts. These celebrations are often elaborate affairs, showcasing the rich cultural heritage and hospitality of Lebanon. The combination of traditional customs and modern influences creates a unique and memorable atmosphere.\n\n**Conclusion:** Lebanese weddings are celebrated with a vibrant mix of music, dance, and cuisine, offering a distinctive and captivating experience. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "What is Zaatar?",
+    "retrieved_context": "Zaatar is a popular Lebanese spice mix made of thyme, sumac, and sesame seeds, often eaten with olive oil and bread.",
+    "generated_response": "Zaatar is a popular **Lebanese spice mix** made of thyme, sumac, and sesame seeds. It is often enjoyed with **olive oil and bread**. \n\n**Conclusion:** Zaatar is a savoury blend of spices, a staple in Lebanese cuisine. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Are there any famous landmarks in Tunisia?",
+    "retrieved_context": "Yes, notable landmarks include the ancient city of Carthage, the Medina of Tunis, and the El Djem Roman amphitheater.",
+    "generated_response": "Yes, Tunisia boasts several famous landmarks. Among them are the ancient city of Carthage, renowned for its rich history and archaeological sites, the vibrant Medina (old town) of Tunis, known for its charming architecture and bustling markets, and the El Djem Roman amphitheater, one of the largest and best-preserved ancient Roman structures in the world.\n\n**Conclusion:** Tunisia is home to. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4"
+  },
+  {
+    "question": "What are some famous historical sites to visit in Tunisia?",
+    "retrieved_context": "Historical sites include the ruins of Carthage, the ancient medina of Tunis, and the Roman ruins at Dougga.",
+    "generated_response": "Tunisia boasts several remarkable historical sites, including:\n\n* **The ruins of Carthage:** This ancient city, founded by Phoenicians and later a major Roman hub, holds ruins that offer a glimpse into its rich past.\n* **The ancient medina of Tunis:** The old town of Tunis, with its labyrinthine streets, historic architecture, and vibrant markets, provides a unique. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "What is the Medina of Sousse known for?",
+    "retrieved_context": "The Medina of Sousse is a UNESCO World Heritage Site known for its vibrant souks, historical architecture, and the Great Mosque.",
+    "generated_response": "The Medina of Sousse is renowned for several key aspects:\n\n* **Vibrant souks:** These traditional markets are bustling with activity, offering a diverse range of goods from local crafts to spices.\n* **Historical architecture:** The Medina boasts well-preserved historical buildings and structures that reflect its rich cultural heritage.\n* **Great Mosque:** This iconic mosque is. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "What is the appropriate way to address elders in Jordan?",
+    "retrieved_context": "Use titles such as ‘Abu’ (father of) or ‘Um’ (mother of) followed by their eldest child's name as a sign of respect.",
+    "generated_response": "In Jordan, addressing elders with respect is a cultural norm. The most common practice is to use titles such as ‘Abu’ (father of) or ‘Um’ (mother of) followed by their eldest child's name. For example, you might address an elder man as \"Abu [child's name]\" and an elder woman as \". I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "What is the Dead Sea known for?",
+    "retrieved_context": "The Dead Sea is the lowest point on Earth and is famous for its extremely salty water, allowing people to float effortlessly.",
+    "generated_response": "The Dead Sea is renowned for its **extremely salty water**, which enables people to **float effortlessly**.  \n**Its low elevation is also a notable feature.**\n        Conclusion: Beyond its salty water, the Dead Sea's unique geographical position as Earth's lowest point adds to its fame. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is the national dish of Jordan?",
+    "retrieved_context": "Mansaf, a dish made of lamb cooked in fermented yogurt and served over rice, is the national dish.",
+    "generated_response": "The national dish of Jordan is **Mansaf**, which consists of lamb cooked in fermented yogurt and served over rice. \n\n**Conclusion:** This dish is a staple in Jordanian cuisine and is renowned for its distinct flavor profile. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "what is siwa oasis famous for",
+    "retrieved_context": "Winter (November-February) is best, as summer temperatures can reach over 45°C.",
+    "generated_response": "Siwa Oasis is renowned for its **unique climate and natural beauty**.  With temperatures exceeding 45°C during summer, **winter (November-February) is the ideal time to visit**.  The oasis offers a serene escape with palm trees, crystal-clear waters, and a rich cultural history.  \n**Its ancient Egyptian heritage and traditional Berber culture make it a fascinating destination for history and culture enthusiasts. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Tell me about destinations in Alexandria",
+    "retrieved_context": "The best way to travel around Alexandria is by using taxis, ride-sharing apps, Tram, or public buses.",
+    "generated_response": "Alexandria offers a variety of destinations for travelers. You can explore historical sites, museums, and beautiful beaches. Some popular destinations include:\n\n- **Ancient Alexandria:** Visit the remnants of the ancient city, including the famous Library of Alexandria and the Catacombs of Kom el-Shuk.\n- **Qaitbay Fort:** A historic fortress built on the site of the ancient Lighthouse of Alexandria,. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "3",
+    "note": "the response is not enough"
+  },
+  {
+    "question": "What is the business etiquette like in Kuwait?",
+    "retrieved_context": "Punctuality is valued, and exchanging business cards with both hands is a sign of respect.",
+    "generated_response": "Business etiquette in Kuwait is characterized by a strong emphasis on **punctuality** and **respect**. Exchanging business cards with both hands is considered a **sign of respect**. Additionally, Kuwaitis tend to be **conservative** in their interactions, valuing **politeness** and **courtesy**. Dress code is generally **formal**, and it's important to **dress appropriately** for the occasion. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is the official language of Kuwait?",
+    "retrieved_context": "Arabic is the official language, but English is widely spoken, especially in business and tourism.",
+    "generated_response": "The official language of Kuwait is **Arabic**. While English is widely spoken, particularly in business and tourism, Arabic holds the formal status.\n\n**Conclusion:** Kuwait's official language policy emphasizes Arabic, reflecting its cultural and historical significance. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is the traditional tea culture in Kuwait?",
+    "retrieved_context": "Tea is an important part of hospitality in Kuwait and is often served with dates.",
+    "generated_response": "The traditional tea culture in Kuwait revolves around hospitality, with tea (often served with dates) playing a central role in social gatherings and welcoming guests. \n\n\n**Conclusion:**  Kuwaiti tea culture emphasizes warmth and generosity through the act of sharing and serving tea to visitors. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is the official language of Oman?",
+    "retrieved_context": "Arabic is the official language, but English is widely spoken, especially in business and tourism.",
+    "generated_response": "The official language of Oman is **Arabic**. While English is widely spoken, particularly in business and tourism, Arabic is the designated official language.\n\n**Conclusion:** Oman's official language policy emphasizes Arabic, reflecting its cultural and historical significance. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is Oman known for?",
+    "retrieved_context": "Oman is known for its stunning desert landscapes, ancient forts, frankincense production, and rich maritime history.",
+    "generated_response": "Oman is renowned for its:\n\n* **Stunning desert landscapes:** The vast, empty expanses of the Omani desert offer a unique and captivating experience.\n* **Ancient forts:**  Oman boasts a rich history, reflected in its well-preserved ancient forts that stand as testaments to its past glories.\n* **Frankincense production:** Oman has long been associated with the production of. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "Why is the Frankincense Trail important in Oman?",
+    "retrieved_context": "Oman was a major center for the ancient frankincense trade, and the trail in Dhofar is a UNESCO World Heritage site.",
+    "generated_response": "The Frankincense Trail in Oman holds significant historical and cultural value as it was a crucial center for the ancient frankincense trade. This trade route, recognized as a UNESCO World Heritage site, facilitated the exchange of frankincense—a valuable commodity used in religious ceremonies and medicinal practices—between Arabia, Africa, and Europe. The trail's significance lies in its. This should give you a clearer understanding of the reasoning behind it. Feel free to ask if you have more questions.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "Why is the Sultan Qaboos Grand Mosque significant?",
+    "retrieved_context": "It is one of the largest mosques in the Middle East, known for its stunning chandeliers and one of the world's largest handmade carpets.",
+    "generated_response": "The Sultan Qaboos Grand Mosque is significant for several reasons. Its size and architectural grandeur make it one of the largest mosques in the Middle East. Additionally, it is renowned for its stunning chandeliers and one of the world's largest handmade carpets, contributing to its aesthetic appeal and historical significance. \n\n**Conclusion:** The mosque's unique architectural features and cultural. This should give you a clearer understanding of the reasoning behind it. Feel free to ask if you have more questions.",
+    "score": "5"
+  },
+  {
+    "question": "What landmark in Qatar is a must-visit?",
+    "retrieved_context": "The Museum of Islamic Art is one of Qatar's most famous landmarks, showcasing incredible Islamic artifacts.",
+    "generated_response": "The Museum of Islamic Art is a must-visit landmark in Qatar, renowned for its remarkable collection of Islamic artifacts. \n\n\n**Conclusion:**  While the context doesn't mention other landmarks, the response directly answers the user's question by highlighting the Museum of Islamic Art as a Qatar must-see. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "1",
+    "note": "conclusion is so bad"
+  },
+  {
+    "question": "When is the best time to visit Qatar?",
+    "retrieved_context": "The best time to visit is between November and March when the weather is cooler and more pleasant.",
+    "generated_response": "The best time to visit Qatar is between **November and March**. During this period, the weather is **cooler and more pleasant**. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What is the traditional attire in Qatar?",
+    "retrieved_context": "Men wear a 'thobe' (long white robe) and a 'ghutra' (headscarf), while women wear an 'abaya' and may cover their hair.",
+    "generated_response": "The traditional attire in Qatar varies between men and women:\n\n**Men:** Wear a long white robe called a 'thobe' and a headscarf called a 'ghutra'.\n\n**Women:** Wear an 'abaya', a long robe, and may cover their hair.\n\n**Conclusion:** The traditional attire in. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Are tourists able to go on desert safaris in Qatar?",
+    "retrieved_context": "Yes, desert safaris, including dune bashing and camel riding, are popular tourist activities.",
+    "generated_response": "Yes, tourists can definitely participate in desert safaris in Qatar. Dune bashing and camel riding are among the popular activities offered. \n**Conclusion:** Qatar offers a range of desert safari experiences for tourists looking to explore its unique desert landscapes. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "How do people greet each other in Algeria?",
+    "retrieved_context": "Men often shake hands, and close friends may exchange cheek kisses. Women greet with a nod or a handshake if comfortable.",
+    "generated_response": "In Algeria, greetings vary based on cultural norms and the relationship between individuals. \n\nMen typically shake hands, while close friends may greet with cheek kisses. Women often greet with a nod or a handshake, depending on their comfort level.\n\n**Conclusion:** The primary greeting in Algeria is a handshake for men and, in certain cases, cheek kisses for close friends, with women opting for. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "3",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What is the official language of Algeria?",
+    "retrieved_context": "Arabic and Berber (Tamazight) are the official languages, with French widely spoken in business and education.",
+    "generated_response": "The official languages of Algeria are Arabic and Berber (Tamazight). \n\n\n**Conclusion:** This response directly answers the user's question and highlights the two official languages of Algeria. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "2",
+    "note": "the response is short and not sufficient and the conclusion is not resonble"
+  },
+  {
+    "question": "What currency is used in Algeria?",
+    "retrieved_context": "The Algerian Dinar (DZD) is the official currency.",
+    "generated_response": "The official currency used in Algeria is the Algerian Dinar (DZD). I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What is the traditional clothing for women in Algeria?",
+    "retrieved_context": "Women wear a Karakou (embroidered jacket with trousers) or Haik (a long white veil).",
+    "generated_response": "The traditional clothing for women in Algeria includes the **Karakou** (embroidered jacket with trousers) or **Haik** (a long white veil).\n\n**Conclusion:**  These garments represent the diverse cultural heritage and styles found across Algeria. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "How should I approach religious situations in Arab countries?",
+    "retrieved_context": "Respect religious traditions in Arab countries. Avoid speaking loudly or behaving inappropriately near mosques or religious sites. During Ramadan, refrain from eating or drinking in public during the day.",
+    "generated_response": "When visiting Arab countries, it's essential to **respect local religious traditions and practices**. This includes being mindful of your behavior around mosques and religious sites. \n\n- **Lower your voice** and avoid loud conversations or behavior that might be perceived as disrespectful.\n- **Refrain from eating or drinking in public** during Ramadan,. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "4",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "What are the conversation etiquette rules in Arab culture?",
+    "retrieved_context": "Yes, avoid showing the soles of your feet, and sit in an upright, respectful manner.",
+    "generated_response": "In Arab culture, conversation etiquette emphasizes **respect and decorum**. When engaging in conversation, it's important to:\n\n* **Avoid showing the soles of your feet**: This is considered impolite.\n* **Sit in an upright, respectful manner**: Posture reflects your respect for the person you're speaking with.\n\n**Conclusion:**  Arab conversation etiquette prioritizes respect, both in body. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What are the greeting customs in Arab countries?",
+    "retrieved_context": "In Arab countries, greetings are very important. A handshake with the right hand is common, accompanied by saying 'As-salamu alaykum' (Peace be upon you) or 'Marhaba' (Hello). Between men and women, it's best to wait for the woman to extend her hand first for a handshake.",
+    "generated_response": "In Arab countries, greetings are a significant aspect of social interaction. The traditional greeting involves a handshake with the **right hand**, often accompanied by the phrase 'As-salam. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "Is it acceptable to ask personal questions in Arab culture?",
+    "retrieved_context": "It’s best to avoid asking personal questions unless you have a close relationship. Questions about someone's financial situation or family matters should be avoided. Instead, focus on neutral topics like weather or travel. If someone shares personal information, don’t pry further.",
+    "generated_response": "In Arab culture, it's generally considered best to avoid asking personal questions, especially if you don't have a close relationship with the person. Questions about someone's financial situation or family matters are particularly sensitive and should be avoided. Focus instead on. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "How should a disagreement be handled in Arab culture?",
+    "retrieved_context": "In Arab culture, it's important to remain calm and respectful during disagreements. Avoid raising your voice or using aggressive body language.",
+    "generated_response": "In Arab culture, disagreements should be handled with calmness and respect. This involves avoiding raising your voice or displaying aggressive body language.\n\n**Conclusion:**  Arab cultural norms emphasize self-control and polite expression during conflicts. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "5"
+  },
+  {
+    "question": "How can I find top attractions in Arab cities using Tajawul?",
+    "retrieved_context": "Visit the Explore section on Tajawul for detailed insights into top attractions, cultural landmarks, and hidden gems across the Middle East.",
+    "generated_response": "To discover top attractions in Arab cities using Tajawul, head to the **Explore section** on their platform. This section offers detailed insights into various cultural landmarks, hidden gems, and popular tourist spots across the Middle East. You can easily navigate and explore cities based on your preferences.\n\n**Conclusion:** Tajawul's Explore section is your go. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What if I want to explore specific cultural events in Arab countries?",
+    "retrieved_context": "Tajawul can provide information on major festivals, cultural events, and religious celebrations happening throughout the year.",
+    "generated_response": "To explore specific cultural events in Arab countries, **Tajawul is your go-to resource**. It offers detailed information on major festivals, cultural gatherings, and religious observances that take place throughout the year across various Arab nations. You can discover unique traditions, learn about significant dates, and plan your travel accordingly to participate in these vibrant celebrations.\n\n**Conclusion:** Tajawul. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Is there any way to see past trips or travel insights on Tajawal, or is that not an option?",
+    "retrieved_context": "Yes, you can access your personalized dashboard on Tajawul to review past trips, monitor your travel goals, and plan future adventures.",
+    "generated_response": "Yes, Tajawul offers a personalized dashboard where you can review past trips, monitor your travel goals, and plan future adventures. You can access these features to gain insights into your travel history and make informed decisions for your next trip.\n\n**Conclusion:** Tajawul provides a comprehensive dashboard to view past. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What exactly does Tajawal provide, and is it worth using?",
+    "retrieved_context": "Yes, Tajawul is free, though some premium features may require a subscription.",
+    "generated_response": "Tajawul is a language learning platform that offers a range of features to help users improve their language skills. It provides interactive lessons, vocabulary exercises, and grammar explanations. The platform's strength lies in its ability to personalize learning paths based on users' needs and progress. This ensures that the content is tailored to help users overcome their specific challenges.\n\nRegarding its worth, Tajawul is a valuable. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "0"
+  },
+  {
+    "question": "How should someone handle their travel bookings and schedule—does Tajawal help with that?",
+    "retrieved_context": "Definitely! Use Tajawul’s built-in calendar feature to manage bookings, plan daily activities, and optimize your travel itinerary.",
+    "generated_response": "Tajawul offers a built-in calendar feature designed to help users manage bookings, plan daily activities, and optimize their travel itineraries. This functionality simplifies the process of keeping track of travel plans and ensures a well-organized trip.\n\n**Conclusion:** Tajawul facilitates travel planning and booking management through its calendar feature. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "5"
+  },
+  {
+    "question": "Can RafiQ actually help uncover lesser-known spots in a foreign country, or is it just for mainstream recommendations?",
+    "retrieved_context": "Yes, RafiQ suggests destinations based on your interests, budget, and preferred travel style.",
+    "generated_response": "RafiQ is designed to provide personalized travel recommendations, which can indeed include lesser-known spots in a foreign country. By leveraging user inputs on interests, budget, and preferred travel style, RafiQ can uncover hidden gems that go beyond typical tourist attractions. This allows users to experience a destination more authentically and deeply.\n\n**Conclusion:** Rafi. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What's the most reliable method for getting instant translations when traveling, if any?",
+    "retrieved_context": "You can use Tajawul’s Machine Translation feature, and I, RafiQ, can guide you through using it to break down language barriers effortlessly.",
+    "generated_response": "The most reliable method for instant translations while traveling is utilizing **machine translation tools** like Tajawul. These tools leverage powerful AI algorithms to provide accurate and contextually relevant translations. \n\nRafiQ, your guide in this journey, can help you navigate the process, ensuring you get the most out of these tools. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "2"
+  },
+  {
+    "question": "Does RafiQ really help with finding unique cultural experiences in Arab countries, or is it limited?",
+    "retrieved_context": "I can guide you to cultural experiences like traditional markets, heritage sites, and festivals using Tajawul’s Explore section.",
+    "generated_response": "RafiQ, through its Explore section, **provides access to a range of cultural experiences unique to Arab countries, including traditional markets, heritage sites, and festivals**. While the context suggests a focus on these specific aspects, it does not indicate any limitations to what RafiQ can offer. Therefore, RafiQ is likely capable of assisting users. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "3",
+    "note": "it mentions things in response that the user shouldn't know"
+  },
+  {
+    "question": "What kinds of extreme or adventure sports might RafiQ suggest in the region, if any?",
+    "retrieved_context": "I can help you find adventure activities such as scuba diving, rock climbing, and sandboarding through Tajawul’s adventure recommendations.",
+    "generated_response": "RafiQ, through Tajawul's recommendations, might suggest **scuba diving, rock climbing, and sandboarding** as these are adventure activities commonly associated with regions that offer unique natural landscapes and challenges.  \n\n**Conclusion:**  Given the context, RafiQ's suggestions for adventure activities in the region are likely to be. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Is signing up mandatory for using Tajawal, or can you access some features without it?",
+    "retrieved_context": "Basic features are available without an account, but signing up allows for personalized recommendations and trip planning.",
+    "generated_response": "You can access basic features of Tajawal without signing up, but personalized recommendations and trip planning are only available with a registered account.  Therefore, while not **mandatory** for all features, creating an account offers enhanced functionality.  Conclusion: You can use Tajawal's core functions without registering, but for a more customized experience, an account is recommended. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Is there any way to meet or interact with other travelers through Tajawal?",
+    "retrieved_context": "Users can comment on posts, ask for travel advice, and share recommendations.",
+    "generated_response": "Yes, Tajawal facilitates interaction and connection between users. Users can **comment on posts, ask for travel advice, and share recommendations**, creating opportunities for meaningful exchanges and potential meetups with fellow travelers. \n\n**Conclusion:** Tajawal encourages a community feel by enabling direct communication and collaboration among its users. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Can sustainable travel groups or communities be found on Tajawal, or is that not a focus?",
+    "retrieved_context": "Yes, users can join groups focused on eco-tourism and responsible travel.",
+    "generated_response": "While Tajawal doesn't explicitly focus on eco-tourism or sustainable travel groups *as a core feature*, users can indeed find communities and groups on the platform that align with these interests. Users interested in sustainable travel can join groups focused on responsible tourism and eco-tourism, where they can share experiences, tips, and connect with like-minded travelers.\n\n**Conclusion. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What's the main emergency number in Egypt—is it the same everywhere?",
+    "retrieved_context": "The general emergency number in Egypt is '122' for police, '123' for ambulance, and '180' for fire services.",
+    "generated_response": "The main emergency numbers in Egypt are:\n\n* **'122'** for police\n* **'123'** for ambulance\n* **'180'** for fire services\n\nThese numbers are standardized across the country. \n\n\n**Conclusion:**  The main emergency numbers. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Is there a direct line for traffic accidents in Saudi Arabia, or does it vary by city?",
+    "retrieved_context": "Tourists in Saudi Arabia should dial '993' for traffic accidents and road-related emergencies.",
+    "generated_response": "Yes, there is a dedicated phone line for traffic accidents and road-related emergencies in Saudi Arabia, which is '993'. This service is available nationwide, so it does not vary by city. Dialing this number will connect you to the necessary emergency services.\n\n**Conclusion:** The consistent emergency number for traffic incidents in Saudi Arabia is '. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Which number should a tourist actually call in Bahrain during an emergency?",
+    "retrieved_context": "The general emergency number in Bahrain is '999'.",
+    "generated_response": "A tourist in Bahrain should call '999' in case of an emergency. This is the general emergency number in the country.\n\n**Conclusion:** The number to dial for emergency services in Bahrain is '999'. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Is there a specific hotline for poisoning cases in Tunisia, or is it a general emergency number?",
+    "retrieved_context": "In Tunisia, poisoning emergencies should be reported to '71 764 000'.",
+    "generated_response": "Yes, Tunisia does have a specific hotline for poisoning cases. The number to call in case of a poisoning emergency is '71 764 000'. This is a dedicated line for reporting such incidents.\n\n**Conclusion:** Tunisia operates a specialized emergency hotline for poisoning cases, ensuring prompt and targeted assistance. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Do embassies usually assist with visa extensions in Arab countries, or is it case-by-case?",
+    "retrieved_context": "Embassies cannot extend visas but can guide tourists on the local immigration process for visa extensions.",
+    "generated_response": "Embassies generally do not assist with visa extensions in Arab countries. They primarily guide tourists on the local immigration process for visa extensions, as they cannot extend visas themselves. This approach is consistent across many countries, though specific procedures may vary.\n\n**Conclusion:** Embassies in Arab countries typically provide informational support for visa extensions, leaving the actual processing to local immigration authorities. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "How can tourists locate their embassy's emergency number—is there a standard way?",
+    "retrieved_context": "Tourists can find emergency contact numbers on the embassy’s official website or their government’s travel advisory pages.",
+    "generated_response": "Tourists can locate their embassy's emergency contact numbers by:\n\n1. **Visiting the embassy's official website**: This is the primary source for accurate and up-to-date emergency contact information.\n2. **Checking their government’s travel advisory pages**: Many governments provide travel advice and resources on their websites, including emergency contact details for their embassies. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "5"
+  },
+  {
+    "question": "Will an embassy help if personal items are stolen, or is that not their responsibility?",
+    "retrieved_context": "Embassies can provide advice on reporting theft to local authorities and help tourists replace important documents like passports.",
+    "generated_response": "Embassies are equipped to assist tourists whose personal items have been stolen. They can provide guidance on reporting the theft to local authorities and support in replacing important documents, such as passports.\n\n**Conclusion:** Embassies play a crucial role in supporting tourists whose belongings have been stolen, ensuring they receive the necessary help to resolve the issue. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Can a tourist just walk into any embassy for help, or must they go to their own country's?",
+    "retrieved_context": "Tourists must visit their own country's embassy, but in certain cases, allied embassies may provide assistance if there is no embassy of their home country available.",
+    "generated_response": "A tourist **must visit their own country's embassy** for assistance, unless there is no embassy available from their home country. In such cases, allied embassies may provide help.  The key is to check if your home country has an embassy in the country you are visiting and, if not,. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "What's the actual emergency contact for the US Embassy in Saudi Arabia—is it publicly available?",
+    "retrieved_context": "The US Embassy emergency hotline in Saudi Arabia is '+966 11 488 3800'.",
+    "generated_response": "The actual emergency contact for the US Embassy in Saudi Arabia is '+966 11 488 3800'. This number is publicly available and can be used for emergencies.\n\n**Conclusion:** The public has direct access to this emergency hotline for quick assistance. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What's the best course of action if a tourist feels unsafe abroad—contact the embassy or local authorities?",
+    "retrieved_context": "Tourists should contact their embassy for safety guidance, register for updates, and avoid dangerous areas.",
+    "generated_response": "The best course of action for a tourist feeling unsafe abroad is to **contact their embassy**. Embassies provide safety guidance, register tourists for updates, and can assist in avoiding dangerous areas.\n\n**Conclusion:** Contacting the embassy is the primary and most comprehensive step to ensure the safety and well-being of tourists abroad. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Is Lebanon truly visa-free for all tourists, or are there exceptions?",
+    "retrieved_context": "Citizens of GCC countries can enter Lebanon visa-free, while others may require a visa-on-arrival or prior application.",
+    "generated_response": "Lebanon's visa policy varies based on nationality. Citizens of GCC countries can enter Lebanon visa-free. However, for other nationalities, Lebanon offers visa-on-arrival or requires a prior application. Therefore, while there are aspects of visa-free entry, there are indeed exceptions.\n\n**Conclusion:** While Lebanon provides visa-free entry for. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in response and conclusion"
+  },
+  {
+    "question": "How long is Qatar's e-visa actually valid—does it vary by nationality?",
+    "retrieved_context": "Qatar’s e-visa is typically valid for 30 days, with some options for extension.",
+    "generated_response": "Qatar's e-visa is generally valid for **30 days**.  While some options exist for extension, the standard validity period does **not vary by nationality**.  \n\nIt's important to note that specific visa requirements can change, so it's always recommended to check Qatar's official immigration website or contact their embassy for the most current information.\n\n**Conclusion. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Are there really Arab countries that grant visas on arrival for Indian passport holders?",
+    "retrieved_context": "Yes, Jordan, Egypt, and the UAE offer visas on arrival for Indian passport holders under certain conditions.",
+    "generated_response": "Yes, there are indeed Arab countries that grant visas on arrival for Indian passport holders. According to the information provided, Jordan, Egypt, and the United Arab Emirates (UAE) offer this facility under specific conditions. This policy is a significant advantage for Indian travelers, simplifying the process of entering these countries.\n\n**Conclusion:** Indian citizens can conveniently obtain visas on arrival in Jordan. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "3",
+    "note": "the response is cut off in response and conclusion"
+  },
+  {
+    "question": "Can a tourist extend their visa while already in Saudi Arabia, or is it complicated?",
+    "retrieved_context": "Yes, tourists can apply for an extension through the Absher portal or at a Jawazat office before their visa expires.",
+    "generated_response": "A tourist can extend their visa while already in Saudi Arabia through two methods: online via the Absher portal or in-person at a Jawazat office. The process is relatively straightforward, allowing visitors to easily secure an extension before their current visa expires.  \n**Conclusion:** Extending a tourist visa in Saudi Arabia is convenient and accessible,. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What happens if someone overstays their visa in the UAE—are fines standard?",
+    "retrieved_context": "Yes, overstaying results in daily fines and possible deportation.",
+    "generated_response": "If someone overstays their visa in the UAE, they are subject to daily fines and potential deportation. Fines are indeed a standard consequence of overstaying. \n\n**Conclusion:** Overstaying your visa in the UAE carries significant penalties, with daily fines and deportation being the primary consequences. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "Which Arab countries allow Japanese passport holders visa-free entry—is it all of them?",
+    "retrieved_context": "U.S. passport holders can enter the UAE, Qatar, and Morocco visa-free for up to 90 days. Other countries, like Jordan and Egypt, offer visas on arrival.",
+    "generated_response": "Japanese passport holders can enter several Arab countries visa-free. According to the information provided, the following Arab countries allow visa-free entry for up to 90 days:\n\n- UAE\n- Qatar\n- Morocco\n\nNot all Arab countries offer visa-. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Is there really a secret cave in Oman that only locals know, and can tourists visit?",
+    "retrieved_context": "The Muqal Cave near Wadi Bani Khalid is a hidden wonder known mostly to locals. It features an underground water pool and stunning stalactites, accessible only through a small entrance requiring a bit of climbing.",
+    "generated_response": "Yes, there is a secret cave in Oman known as the Muqal Cave near Wadi Bani Khalid. While it is mostly known to locals, tourists can visit with some effort. The cave features an impressive underground water pool and unique stalactites. Access. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4"
+  },
+  {
+    "question": "Which undiscovered island in Saudi Arabia has pristine beaches—is it accessible?",
+    "retrieved_context": "Farasan Al Kabir, part of the Farasan Islands, remains one of Saudi Arabia’s best-kept secrets with pristine beaches, coral reefs, and historical Ottoman ruins.",
+    "generated_response": "Farasan Al Kabir, part of the Farasan Islands, is an undiscovered gem within Saudi Arabia that boasts pristine beaches, coral reefs, and historical Ottoman ruins. It is accessible, though it remains largely unexplored.\n\n        Conclusion: While Farasan Al Kabir is not entirely undiscovered, it retains its. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Where's a quiet hiking spot in Jordan that isn't overrun by Petra tourists?",
+    "retrieved_context": "Wadi Numeira, known as Jordan’s 'Little Petra Siq,' is a secluded canyon with narrow, winding paths, dramatic sandstone formations, and a gentle stream running through it.",
+    "generated_response": "Wadi Numeira is an excellent choice for a quiet hiking spot in Jordan that offers a unique alternative to the bustling crowds of Petra. This secluded canyon, often referred to as Jordan’s 'Little Petra Siq', features narrow, winding paths surrounded by dramatic sandstone formations and a. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "Is there a lesser-known cultural museum in Bahrain worth visiting?",
+    "retrieved_context": "The Al Jasra House, birthplace of Sheikh Isa bin Salman Al Khalifa, showcases traditional Bahraini crafts such as pottery, weaving, and dhow-building.",
+    "generated_response": "Yes, **The Al Jasra House** is a lesser-known yet culturally significant museum in Bahrain. Located in the capital city of Manama, this historic home highlights traditional Bahraini crafts like pottery, weaving, and dhow-building, offering a unique glimpse into the country's rich heritage.\n\n**Conclusion:** The. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "When's the ideal time for hiking in Lebanon's Qadisha Valley—does it vary yearly?",
+    "retrieved_context": "The best hiking season in Qadisha Valley is spring (April-May) and autumn (September-November). During these times, the temperatures are mild (15°C-25°C), and the valley is filled with wildflowers and flowing streams. Summer can be hot, while winter often brings snow, making some trails inaccessible.",
+    "generated_response": "The ideal time for hiking in Lebanon's Qadisha Valley is **spring (April-May) and. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What's the best season for a desert trip to Wadi Rum—summer or winter?",
+    "retrieved_context": "The best time to visit Wadi Rum is in spring (March-May) and autumn (September-November), when temperatures are moderate (20°C-30°C). These seasons provide pleasant weather for jeep tours, hiking, and camping under the stars. Summer temperatures can exceed 40°C, while winter nights can be very cold.",
+    "generated_response": "The best season for a desert trip to Wadi Rum is **spring (March-May) or autumn (September. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "2",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "Is there a particular time that's best for experiencing Ramadan in the Arab world?",
+    "retrieved_context": "Ramadan follows the Islamic lunar calendar and shifts by about 10 days each year. However, experiencing Ramadan during cooler months (November-March) is generally more comfortable, as fasting hours are shorter and temperatures are milder. Cities like Cairo, Dubai, and Fez come alive with Ramadan decorations, special night markets, and traditional iftar feasts.",
+    "generated_response": "The best time to experience Ramadan in the Arab world depends on your preference for weather and cultural activities. Generally, experiencing Ramadan during cooler. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "2",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "When can tourists see bioluminescent plankton in the Red Sea—is it seasonal?",
+    "retrieved_context": "During the warmer months, from May to September, when phytoplankton activity is high, creating glowing waves at night.",
+    "generated_response": "Tourists can witness the captivating sight of bioluminescent plankton in the Red Sea during the warmer months, specifically from **May to September**. This phenomenon occurs when phytoplankton activity peaks, resulting in a mesmerizing display of glowing waves at night. \n\n**Conclusion:** The bioluminescence is a seasonal event, occurring during the warmer summer. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "How can travelers actually reduce water waste in UAE hotels—are there guidelines?",
+    "retrieved_context": "Tourists can minimize water use by reusing towels, taking shorter showers, and turning off taps when not needed.",
+    "generated_response": "Travelers can significantly reduce water waste in UAE hotels by following simple practices:\n\n\n* **Reusing towels:** Instead of requesting fresh towels daily, reuse the ones provided.\n* **Taking shorter showers:** Limit shower time to conserve water.\n* **Turning off taps:** Be mindful of leaving taps running unnecessarily, such as while brushing teeth or shaving. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "5"
+  },
+  {
+    "question": "What should tourists avoid doing in Saudi Arabia's protected deserts—are there fines?",
+    "retrieved_context": "Travelers should avoid littering and disturbing native flora and fauna in Saudi Arabia’s desert reserves.",
+    "generated_response": "Tourists should avoid littering and disturbing native flora and fauna in Saudi Arabia’s desert reserves. There is no specific mention of fines in the provided context, but it is safe to assume that violating these rules could result in penalties, given the importance of preserving the natural environment.  Conclusively, while the context doesn't detail specific consequences, tourists are advised to respect the. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "2",
+    "note": "it mentions things in response that the user shouldn't know"
+  },
+  {
+    "question": "What's the eco-friendly alternative to plastic bottles in Oman—is it widely available?",
+    "retrieved_context": "Tourists are encouraged to carry reusable water bottles and refill them at safe stations in Oman.",
+    "generated_response": "The eco-friendly alternative to plastic bottles in Oman is the use of **reusable water bottles**.  These can be refilled at **safe stations** across the country. This practice is **encouraged** for tourists and is becoming increasingly popular among locals too. Its widespread availability makes it a convenient and effective way to reduce plastic waste.\n\n**Conclusion:** Re. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What behavior is considered respectful when entering mosques—are there strict rules?",
+    "retrieved_context": "Tourists should dress modestly and avoid loud conversations or photography without permission inside mosques.",
+    "generated_response": "When entering mosques, it is considered respectful to **dress modestly** and **avoid loud conversations or photography without permission**. These guidelines are in place to maintain a peaceful and sacred environment.\n\n**Conclusion:**  Dressing modestly and respecting quiet while in a mosque are key practices for demonstrating respect. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Why is buying ivory in Egypt frowned upon—is it illegal or just unethical?",
+    "retrieved_context": "It supports illegal poaching and threatens endangered elephant populations.",
+    "generated_response": "Buying ivory in Egypt is **both illegal and unethical**. It **supports illegal poaching**, which poses a significant threat to **endangered elephant populations**.\n\n**Conclusion:** The dual nature of this issue makes purchasing ivory in Egypt highly problematic.\n\nPlease let me know if you have any further questions. This should give you a clearer understanding of the reasoning behind it. Feel free to ask if you have more questions.",
+    "score": "4"
+  },
+  {
+    "question": "How can tourists reduce pollution in Jordan's Wadi Mujib—are there restrictions?",
+    "retrieved_context": "Follow official paths and avoid littering or contaminating water sources.",
+    "generated_response": "Tourists can help reduce pollution in Jordan's Wadi Mujib by adhering to official paths and practicing responsible waste disposal. Avoiding littering and ensuring that all waste is disposed of properly is crucial to preserving the natural beauty and ecological integrity of the area. There are specific restrictions in place to protect the environment, and tourists are expected to respect these rules. These restrictions may include guidelines on waste management, water conservation,. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "5"
+  },
+  {
+    "question": "What's the best way to cut down on plastic waste in Lebanon's coastal areas?",
+    "retrieved_context": "Carry all trash back and dispose of it in designated bins rather than leaving it on trails.",
+    "generated_response": "To reduce plastic waste in Lebanon's coastal areas, individuals should prioritize carrying all trash back from beaches and trails and disposing of it in designated bins. This simple action significantly minimizes the amount of plastic ending up in the environment, especially in natural habitats like beaches. \n\nMoreover, advocating for and supporting initiatives that promote responsible waste management, recycling, and the use of sustainable alternatives to plastic. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Which mosque in Jerusalem is a key Islamic pilgrimage site—is it open to non-Muslims?",
+    "retrieved_context": "Al-Aqsa Mosque in Jerusalem is an important Islamic pilgrimage site for Muslims in the Arab world.",
+    "generated_response": "The Al-Aqsa Mosque in Jerusalem is a significant Islamic pilgrimage site. While it **is open to non-Muslims during specific times and under certain conditions**, there are restrictions on access. Non-Muslims are generally permitted to enter the mosque during non-prayer times and are required to follow certain guidelines, such as wearing appropriate attire and respecting the sacred nature. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Which Christian site in Lebanon is famous for Marian processions—is it open year-round?",
+    "retrieved_context": "Our Lady of Zahle and the Bekaa shrine in Lebanon is famous for its annual Marian processions.",
+    "generated_response": "Our Lady of Zahle and the Bekaa shrine in Lebanon is renowned for its annual Marian processions. While I don't have information on the site's year-round accessibility, its significance during these religious celebrations makes it a notable Christian destination.\n\n**Conclusion:** The annual Marian processions at Our Lady of Zahle and the Bekaa shrine draw visitors, indicating its. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "3",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What's that famous Egyptian street food with rice, pasta, and lentils—where's the best place to try it?",
+    "retrieved_context": "The famous Egyptian street food dish is called 'Koshari'.",
+    "generated_response": "The best place to try the famous Egyptian street food dish, Koshari, is in Egypt itself, where it originated. Koshari is a hearty and flavorful mix of rice, pasta, lentils, and a rich tomato sauce, often served with fried onions and a squeeze of lemon. It's a popular and affordable meal, enjoyed by locals and tourists alike. Look for street. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "What's the Tunisian fried dough dish with egg and tuna—is it spicy?",
+    "retrieved_context": "The Tunisian street food is called 'Brik'.",
+    "generated_response": "The Tunisian fried dough dish with egg and tuna is called 'Brik'. While the dish itself isn't inherently spicy, the seasonings and accompaniments can be adjusted to taste, so it's possible to add spice to a Brik. Typically, Brik is served with a variety of toppings, including egg, tuna, cheese, and various vegetables, and is known for its rich and savory flavors.\n\n**Conclusion:**. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Which Moroccan Ramadan dessert is soaked in syrup—is it available year-round?",
+    "retrieved_context": "The Moroccan dessert is 'Chebakia'.",
+    "generated_response": "The Moroccan Ramadan dessert is **Chebakia**, which is soaked in syrup. While it is traditionally consumed during Ramadan, **Chebakia is available year-round** in many Moroccan bakeries and markets.  \n<|im_end|>. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Where can tourists find budget shopping in Dubai—are there hidden markets?",
+    "retrieved_context": "Dragon Mart and Dubai Outlet Mall are ideal for bargain shopping.",
+    "generated_response": "Tourists can find budget shopping in Dubai at popular destinations like Dragon Mart and Dubai Outlet Mall. These places are renowned for offering significant discounts and are ideal for bargain hunting. There are no hidden markets; these are well-established, public shopping centers catering to both locals and tourists.\n\n**Conclusion:** For budget shopping in Dubai, tourists should head to major outlets like Dragon Mart and Dubai Outlet Mall, where they can expect. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Which Dubai areas are best for unique souvenirs—are they overpriced?",
+    "retrieved_context": "Global Village, Dubai Souk Al Bahar, and Al Seef are best for unique souvenirs.",
+    "generated_response": "The best areas in Dubai for unique souvenirs are Global Village, Dubai Souk Al Bahar, and Al Seef. These locations are renowned for their diverse selection of items, catering to various tastes and budgets. While some souvenirs might be priced higher due to their exclusivity or craftsmanship, you can still find reasonably priced options. It's advisable to compare prices and haggle, especially in traditional souks, to ensure you. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "What's the current price of 1kg of chicken in Egypt—does it fluctuate?",
+    "retrieved_context": "As of January 2025, the price of white chicken in Egypt increased by 15% over the past week, rising from 85 EGP to 103 EGP per kilogram. :contentReference[oaicite:4]{index=4}",
+    "generated_response": "The current price of 1 kilogram of chicken in Egypt is **103 EGP**, according to data from January 2025. Yes, prices **can. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "How much does 1kg of maize cost in Morocco—is it seasonal?",
+    "retrieved_context": "As of March 2025, the price of maize in Morocco has increased due to global market pressures and local production challenges.",
+    "generated_response": "1kg of maize in Morocco currently costs around **17-20 MAD** (Moroccan Dirhams). This price is influenced by global market dynamics and local production issues, leading to price fluctuations.\n\nWhile prices can vary throughout the year, the overall trend shows **a seasonal increase during the winter months due to higher demand and reduced. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "5"
+  },
+  {
+    "question": "What are the five pillars of Islam that tourists should know—are they strictly enforced?",
+    "retrieved_context": "The five pillars of Islam are Shahada (faith), Salah (prayer), Zakat (charity), Sawm (fasting during Ramadan), and Hajj (pilgrimage to Mecca).",
+    "generated_response": "The five pillars of Islam are fundamental practices that tourists, especially those visiting Muslim-majority countries, should be aware of. These pillars are:\n\n1. **Shahada (Faith):** This is the declaration of faith, stating that \"There is no god but Allah,. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "1",
+    "note": "the response is not enough and cut off"
+  },
+  {
+    "question": "How should non-Muslims act during the call to prayer—should they stop everything?",
+    "retrieved_context": "Avoid loud conversations, do not walk in front of people praying, and dress modestly when near a mosque.",
+    "generated_response": "Non-Muslims are generally advised to avoid loud conversations and not to walk in front of people praying during the call to prayer. While there is no strict rule about stopping all activities, it is considered respectful to show consideration for the religious practices of others. Dressing modestly when near a mosque is also a sign of respect.\n\n**Conclusion:** Non-. I hope this helps you understand the process better. Let me know if you need further clarification.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Is an international driver's license accepted in Kuwait, or do you need a local one?",
+    "retrieved_context": "Yes, you can use your international driver’s license in Kuwait for up to 3 months. After that, you’ll need to obtain a Kuwaiti driver’s license.",
+    "generated_response": "An international driver's license is **accepted in Kuwait for up to 3 months**. After this period, you must obtain a Kuwaiti driver's license.  \n**Conclusion:** While you can initially drive with an international driver's license, you are required to switch to a local. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Are there any bike-sharing services in Dubai, or is it car-dependent?",
+    "retrieved_context": "Yes, Dubai offers bike-sharing services like Careem Bike, which allows you to rent bikes from various stations across the city.",
+    "generated_response": "Yes, Dubai does offer bike-sharing services. One such service is Careem Bike, which allows users to rent bikes from various stations across the city. This indicates that cycling is an available mode of transportation in Dubai, providing an alternative to car dependency.\n\n**Conclusion:** Dubai has bike-sharing services like Careem Bike, suggesting. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Is Jordan truly safe for tourists, or are there areas to avoid?",
+    "retrieved_context": "Yes, Jordan is considered one of the safest countries in the Middle East for tourists.",
+    "generated_response": "Jordan is indeed considered one of the safest countries in the Middle East for tourists. While it is generally safe to explore most areas of the country, it is always advisable to remain vigilant and follow basic safety precautions. There are certain areas to avoid, such as the Syrian border regions, where political instability may persist. Additionally, tourists should exercise caution in crowded places and during night time, as with any destination. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What safety tips should tourists follow in Arab souks—are scams common?",
+    "retrieved_context": "Keep your belongings secure, be cautious of pickpockets, and negotiate prices politely. Avoid carrying large amounts of cash and stay aware of your surroundings.",
+    "generated_response": "Tourists should follow several safety tips when navigating Arab souks to ensure a secure and enjoyable experience:\n\n- **Be Aware of Your Belongings:** Keep your valuables secure, avoid displaying them openly, and be cautious of pickpockets who might target crowded souks.\n\n- **Negotiate Prices Politely:**. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "What's a typical Qatari dish that visitors should try?",
+    "retrieved_context": "Machboos at Shay Al Shamoos, Harees at Walima Restaurant, and Balaleet at Souq Waqif.",
+    "generated_response": "A typical Qatari dish that visitors should try is **Machboos**, served at Shay Al Shamoos, **Harees** at Walima Restaurant, and **Balaleet** at Souq Waqif. These dishes represent a rich culinary tradition and offer a great introduction to Qatari cuisine. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "5"
+  },
+  {
+    "question": "Which dish is most associated with Sudan—is it widely available?",
+    "retrieved_context": "Ful Medames, stewed fava beans seasoned with spices and often served with bread and vegetables, is commonly associated with Sudan.",
+    "generated_response": "The dish most associated with Sudan is **Ful Medames**, a stewed fava bean dish seasoned with spices. It is indeed widely available throughout the country and is considered a national dish. \n\nConclusion: Ful Medames is not just a popular dish in Sudan; it is a staple and an iconic representation of Sudanese cuisine. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What should female travelers do if harassed—are local authorities helpful?",
+    "retrieved_context": "If you feel harassed, seek help from local authorities, hotel staff, or other women nearby. Most Arab countries take harassment seriously and have measures in place to assist.",
+    "generated_response": "If female travelers experience harassment, they should immediately seek help from local authorities, hotel staff, or other women in the vicinity. Arab countries generally take harassment seriously and have systems in place to support victims. \n\n**Conclusion:** Local authorities in Arab countries are equipped to handle harassment cases and can provide assistance to travelers. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "Can women dine alone in Arab restaurants, or is it frowned upon?",
+    "retrieved_context": "Yes, women can eat alone in restaurants. However, in more conservative areas, it's best to choose family-friendly or women-only sections for added comfort.",
+    "generated_response": "Women can indeed dine alone in Arab restaurants. In fact, it's a common practice. However, in more conservative areas, it might be more comfortable to opt for family-friendly or women-only sections, if available.\n\n**Conclusion:** Dining alone as a woman is generally accepted in Arab restaurants, but. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Are women allowed to visit historical sites alone, or do they need a companion?",
+    "retrieved_context": "Yes, women can visit historical sites alone, but it’s advisable to go during daylight hours and be mindful of local customs and dress codes.",
+    "generated_response": "Women are permitted to visit historical sites alone. However, it is recommended to visit during daylight hours and to be aware of local customs and dress codes.  **Conclusion:**  There is no requirement for women to have a companion when visiting historical sites. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "What's Libya's national anthem, and what's its meaning?",
+    "retrieved_context": "The national anthem of Libya is 'Libya, Libya, Libya'. It conveys themes of patriotism, unity, and the pride of the Libyan people in their country's history and culture.",
+    "generated_response": "Libya's national anthem is **\"Libya, Libya, Libya\"**. This anthem expresses **patriotism, unity, and pride in Libya's history and culture**. \n\nThe lyrics celebrate the country's heritage and the collective spirit of its people. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "0"
+  },
+  {
+    "question": "What does Bahrain's national anthem represent—is it historical or religious?",
+    "retrieved_context": "The national anthem of Bahrain is 'Bahrainona' (Our Bahrain). It symbolizes the unity, pride, and love of the Bahraini people for their country and their commitment to its progress and development.",
+    "generated_response": "Bahrain's national anthem, 'Bahrainona' (Our Bahrain), represents **unity, pride, and love of the Bahraini people for their country**. It does **not** have historical or religious significance as its lyrics focus on the nation's progress and development, rather than. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4",
+    "note": "the response is cut off"
+  },
+  {
+    "question": "Is smoking in public allowed in Kuwait, or are there restrictions?",
+    "retrieved_context": "Smoking in public places is restricted in Kuwait. It is prohibited in malls, restaurants, and government buildings. Designated smoking areas are available in some places.",
+    "generated_response": "Smoking in public places in Kuwait is generally **restricted**. While designated smoking areas exist in some locations, smoking is prohibited in malls, restaurants, and government buildings.\n\n**Conclusion:** Smoking is largely limited in public spaces in Kuwait. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  },
+  {
+    "question": "Is cursing in public illegal in Egypt—are there actual penalties?",
+    "retrieved_context": "No, using offensive language or swearing in public is illegal in Egypt and can result in fines or other penalties. Always maintain respectful behavior in public spaces.",
+    "generated_response": "Yes, cursing in public is illegal in Egypt. The law prohibits the use of offensive language or swearing in public places, and violations can result in fines or other penalties. It's important to maintain respectful behavior in public spaces.\n\n**Conclusion:** Cursing in public is a punishable offense in Egypt, with potential fines or other. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "3",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Are there photography bans in Tunisia's public spaces—what's prohibited?",
+    "retrieved_context": "Yes, in Tunisia, it is illegal to take photographs of government buildings, military installations, and local people without their permission. Always ask for consent before photographing individuals.",
+    "generated_response": "In Tunisia, photography of **government buildings, military installations, and individuals without their consent** is prohibited.  \n\n**Conclusion:**  Stick to photographing public landmarks, landscapes, and non-private spaces in Tunisia. Always ask for permission before capturing images of people. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "3",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "What are Mauritania's public behavior rules—are they strictly enforced?",
+    "retrieved_context": "In Mauritania, public behavior should be respectful and considerate. While the country is relatively liberal, it is still important to dress modestly and avoid public displays of affection in conservative areas.",
+    "generated_response": "Mauritania's public behavior rules are generally respectful and considerate, with a focus on modesty, especially in conservative areas. While the country is relatively liberal, public displays of affection are generally frowned upon in these regions. There is no strict enforcement of these rules, but adhering to local customs is recommended to avoid. I hope this answers your question. Let me know if you'd like to explore more about this topic.",
+    "score": "4"
+  },
+  {
+    "question": "Does the Louvre Abu Dhabi have kid-friendly activities, or is it more for adults?",
+    "retrieved_context": "Yes, the Louvre Abu Dhabi offers family-friendly activities, including workshops, interactive exhibits, and guided tours designed for children and families.",
+    "generated_response": "The Louvre Abu Dhabi offers a variety of **family-friendly activities**, including workshops, interactive exhibits, and guided tours tailored for children and families. This indicates that the museum is designed to be accessible and engaging for both children and adults.\n\n**Conclusion:** The Louvre Abu Dhabi is not exclusively for adults; it offers specific kid. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "4",
+    "note": "the response is cut off in conclusion"
+  },
+  {
+    "question": "Are there Sufi retreats in Morocco open to foreigners, or are they private?",
+    "retrieved_context": "Yes, Morocco is home to several Sufi retreats, such as the Zaouia of Moulay Idriss in Fes, where visitors can experience Sufi rituals and teachings.",
+    "generated_response": "Yes, there are several Sufi retreats in Morocco that are open to foreigners. One notable example is the Zaouia of Moulay Idriss in Fes, which welcomes visitors interested in experiencing Sufi rituals and teachings. These retreats offer a unique opportunity for cultural exchange and spiritual exploration for people from all walks of life. If you need further assistance or have additional questions, don't hesitate to ask.",
+    "score": "5"
+  }
+]
